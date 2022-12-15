@@ -13,8 +13,7 @@ a:hover {
 }
 .aria {
   width: 100%;
-  min-width: 1512px;
-  margin: auto;
+  display: flex;
 }
 .macbook-pro-14----4,
 .macbook-pro-14----4 * {
@@ -102,7 +101,7 @@ a:hover {
   left: 1013px;
   top: 57px;
 }
-.servizi a{
+.servizi a {
   text-decoration: none;
 }
 .contattaci {
@@ -113,7 +112,7 @@ a:hover {
   left: 1344px;
   top: 57px;
 }
-.contattaci a{
+.contattaci a {
   text-decoration: none;
 }
 .logo {
@@ -808,8 +807,7 @@ a:hover {
 @media screen and (max-width: 600px) {
   .aria {
     width: 100%;
-    min-width: 1512px;
-    margin: auto;
+    display: flex;
   }
   .macbook-pro-14----4,
   .macbook-pro-14----4 * {
