@@ -11,9 +11,6 @@ a {
 a:hover {
   color: #ffd747;
 }
-.sito {
-  width: 100%;
-}
 .macbook-pro-14----4,
 .macbook-pro-14----4 * {
   box-sizing: border-box;
@@ -804,9 +801,6 @@ a:hover {
 }
 
 @media screen and (max-width: 600px) {
-  .sito {
-    width: 100%;
-  }
   .macbook-pro-14----4,
   .macbook-pro-14----4 * {
     box-sizing: border-box;
