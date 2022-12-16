@@ -45,6 +45,8 @@ a:hover {
   position: absolute;
   left: 81px;
   top: 561px;
+  width: 46px;
+  height: 46px;
   transform: translate(0px, 0px);
   overflow: visible;
 }
@@ -851,8 +853,10 @@ a:hover {
   }
   .chevron-down-24 {
     position: absolute;
-    left: 84px;
-    top: 762px;
+    left: 78px;
+    top: 755px;
+    width: 62px;
+    height: 62px;
     transform: translate(0px, 0px);
     overflow: visible;
   }
@@ -1089,11 +1093,11 @@ a:hover {
     height: 64.23px;
   }
   .iconly-bold-shield-done {
-    width: 68.82px;
-    height: 68.82px;
+    width: 59px;
+    height: 59px;
     position: absolute;
-    left: 442px;
-    top: 73px;
+    left: 438px;
+    top: 74px;
   }
   .shield-done {
     position: absolute;
@@ -1328,11 +1332,11 @@ a:hover {
     font: 500 24px/100% "Helvetica Neue", sans-serif;
   }
   .iconly-bold-3-user {
-    width: 68.82px;
-    height: 68.82px;
+    width: 64px;
+    height: 64px;
     position: absolute;
-    left: 469px;
-    top: 1401px;
+    left: 459px;
+    top: 1400px;
   }
   ._3-user {
     position: absolute;
