@@ -3,7 +3,6 @@ body {
   margin: 0;
   padding: 0;
   height: 100%;
-  width: 100%;
 }
 a {
   color: #000000;
@@ -12,791 +11,789 @@ a {
 a:hover {
   color: #ffd747;
 }
-.Sito{
-  width: 100%;
-}
-.macbook-pro-14----4,
-.macbook-pro-14----4 * {
-  box-sizing: border-box;
-}
-.macbook-pro-14----4 {
-  background-image: url("sfondo.png");
-  background-size: cover;
-  background-repeat: no-repeat;
-  width: 1512px;
-  height: 982px;
-  position: relative;
-  overflow: hidden;
-}
-.rectangle-19 {
-  background: #ffffff;
-  border-radius: 30px;
-  width: 96px;
-  height: 53px;
-  position: absolute;
-  left: 56px;
-  top: 558px;
-}
-.azienda-nel-settore-dal-2004--se-vuoi-scoprire-di-pi--premi {
-  color: #ffffff;
-  text-align: left;
-  font: 700 40px/100% "Helvetica Neue", sans-serif;
-  position: absolute;
-  left: 56px;
-  top: 377px;
-}
-.chevron-down-24 {
-  position: absolute;
-  left: 81px;
-  top: 561px;
-  width: 46px;
-  height: 46px;
-  transform: translate(0px, 0px);
-  overflow: visible;
-}
-.rectangle-18 {
-  background: #ffffff;
-  border-radius: 15px;
-  width: 1512px;
-  height: 161px;
-  position: absolute;
-  left: 0px;
-  top: -21px;
-}
-.marsica-security {
-  color: #000000;
-  text-align: left;
-  font: 700 48px/100% "Helvetica Neue", sans-serif;
-  position: absolute;
-  left: 152px;
-  top: 45px;
-}
-.chi-siamo {
-  color: #000000;
-  text-align: left;
-  font: 400 24px/100% "Helvetica Neue", sans-serif;
-  position: absolute;
-  left: 1160px;
-  top: 57px;
-}
-.chi-siamo a {
-  color: #000000;
-  text-decoration: none;
-}
-.chi-siamo a:hover {
-  color: #ffd747;
-}
-.servizi {
-  color: #000000;
-  text-align: left;
-  font: 400 24px/100% "Helvetica Neue", sans-serif;
-  position: absolute;
-  left: 1013px;
-  top: 57px;
-}
-.servizi a {
-  text-decoration: none;
-}
-.contattaci {
-  color: #000000;
-  text-align: left;
-  font: 400 24px/100% "Helvetica Neue", sans-serif;
-  position: absolute;
-  left: 1344px;
-  top: 57px;
-}
-.contattaci a {
-  text-decoration: none;
-}
-.logo {
-  width: 76px;
-  height: 88px;
-  position: absolute;
-  left: 41px;
-  top: 25px;
-}
+@media screen and (max-width: 3000px) {
+  .macbook-pro-14----4,
+  .macbook-pro-14----4 * {
+    box-sizing: border-box;
+  }
+  .macbook-pro-14----4 {
+    background-image: url("sfondo.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 1512px;
+    height: 982px;
+    position: relative;
+    overflow: hidden;
+  }
+  .rectangle-19 {
+    background: #ffffff;
+    border-radius: 30px;
+    width: 96px;
+    height: 53px;
+    position: absolute;
+    left: 56px;
+    top: 558px;
+  }
+  .azienda-nel-settore-dal-2004--se-vuoi-scoprire-di-pi--premi {
+    color: #ffffff;
+    text-align: left;
+    font: 700 40px/100% "Helvetica Neue", sans-serif;
+    position: absolute;
+    left: 56px;
+    top: 377px;
+  }
+  .chevron-down-24 {
+    position: absolute;
+    left: 81px;
+    top: 561px;
+    width: 46px;
+    height: 46px;
+    transform: translate(0px, 0px);
+    overflow: visible;
+  }
+  .rectangle-18 {
+    background: #ffffff;
+    border-radius: 15px;
+    width: 1512px;
+    height: 161px;
+    position: absolute;
+    left: 0px;
+    top: -21px;
+  }
+  .marsica-security {
+    color: #000000;
+    text-align: left;
+    font: 700 48px/100% "Helvetica Neue", sans-serif;
+    position: absolute;
+    left: 152px;
+    top: 45px;
+  }
+  .chi-siamo {
+    color: #000000;
+    text-align: left;
+    font: 400 24px/100% "Helvetica Neue", sans-serif;
+    position: absolute;
+    left: 1160px;
+    top: 57px;
+  }
+  .chi-siamo a {
+    color: #000000;
+    text-decoration: none;
+  }
+  .chi-siamo a:hover {
+    color: #ffd747;
+  }
+  .servizi {
+    color: #000000;
+    text-align: left;
+    font: 400 24px/100% "Helvetica Neue", sans-serif;
+    position: absolute;
+    left: 1013px;
+    top: 57px;
+  }
+  .servizi a {
+    text-decoration: none;
+  }
+  .contattaci {
+    color: #000000;
+    text-align: left;
+    font: 400 24px/100% "Helvetica Neue", sans-serif;
+    position: absolute;
+    left: 1344px;
+    top: 57px;
+  }
+  .contattaci a {
+    text-decoration: none;
+  }
+  .logo {
+    width: 76px;
+    height: 88px;
+    position: absolute;
+    left: 41px;
+    top: 25px;
+  }
 
-.macbook-pro-14----3,
-.macbook-pro-14----3 * {
-  box-sizing: border-box;
-}
-.macbook-pro-14----3 {
-  background: #000000;
-  width: 1512px;
-  height: 982px;
-  position: relative;
-  overflow: hidden;
-}
-.il-nostro-gruppo- {
-  color: #ffffff;
-  text-align: left;
-  font: 700 40px/100% "Helvetica Neue", sans-serif;
-  position: absolute;
-  left: 51px;
-  top: 555px;
-  width: 363px;
-  height: 56px;
-}
-.rectangle-25 {
-  background: #fef9f3;
-  width: 1512px;
-  height: 501px;
-  position: absolute;
-  left: 0px;
-  top: 0px;
-}
-.iconly-bold-3-user {
-  width: 50px;
-  height: 50px;
-  position: absolute;
-  left: 380px;
-  top: 556px;
-}
-._3-user {
-  position: absolute;
-  left: 1.88px;
-  top: 7.5px;
-  overflow: visible;
-}
-.rectangle-44 {
-  background: #2e2d2d;
-  border-radius: 20px;
-  width: 192px;
-  height: 259px;
-  position: absolute;
-  left: 51px;
-  top: 166px;
-}
-.rectangle-28 {
-  background: #2e2d2d;
-  border-radius: 20px;
-  width: 192px;
-  height: 259px;
-  position: absolute;
-  left: 527px;
-  top: 166px;
-}
-.rectangle-29 {
-  background: #2e2d2d;
-  border-radius: 20px;
-  width: 192px;
-  height: 259px;
-  position: absolute;
-  left: 765px;
-  top: 166px;
-}
-.rectangle-30 {
-  background: #2e2d2d;
-  border-radius: 20px;
-  width: 192px;
-  height: 259px;
-  position: absolute;
-  left: 1003px;
-  top: 166px;
-}
-.rectangle-31 {
-  background: #2e2d2d;
-  border-radius: 20px;
-  width: 192px;
-  height: 259px;
-  position: absolute;
-  left: 1241px;
-  top: 166px;
-}
-.rectangle-32 {
-  background: #fef9f3;
-  border-radius: 20px;
-  width: 192px;
-  height: 259px;
-  position: absolute;
-  left: 51px;
-  top: 651px;
-  box-shadow: 5px 10px 4px 0px rgba(0, 0, 0, 0.25);
-}
-.rectangle-33 {
-  background: #fef9f3;
-  border-radius: 20px;
-  width: 192px;
-  height: 259px;
-  position: absolute;
-  left: 289px;
-  top: 651px;
-  box-shadow: 5px 10px 4px 0px rgba(0, 0, 0, 0.25);
-}
-.rectangle-34 {
-  background: #fef9f3;
-  border-radius: 20px;
-  width: 192px;
-  height: 259px;
-  position: absolute;
-  left: 527px;
-  top: 651px;
-  box-shadow: 5px 10px 4px 0px rgba(0, 0, 0, 0.25);
-}
-.rectangle-35 {
-  background: #fef9f3;
-  border-radius: 20px;
-  width: 192px;
-  height: 259px;
-  position: absolute;
-  left: 765px;
-  top: 651px;
-  box-shadow: 5px 10px 4px 0px rgba(0, 0, 0, 0.25);
-}
-.rectangle-36 {
-  background: #fef9f3;
-  border-radius: 20px;
-  width: 192px;
-  height: 259px;
-  position: absolute;
-  left: 1003px;
-  top: 651px;
-  box-shadow: 5px 10px 4px 0px rgba(0, 0, 0, 0.25);
-}
-.rectangle-37 {
-  background: #fef9f3;
-  border-radius: 20px;
-  width: 192px;
-  height: 259px;
-  position: absolute;
-  left: 1241px;
-  top: 651px;
-  box-shadow: 5px 10px 4px 0px rgba(0, 0, 0, 0.25);
-}
-.rectangle-38 {
-  background: #2e2d2d;
-  border-radius: 20px 20px 0px 0px;
-  width: 192px;
-  height: 96px;
-  position: absolute;
-  left: 51px;
-  top: 651px;
-}
-.rectangle-45 {
-  background: #ffd747;
-  border-radius: 20px 20px 0px 0px;
-  width: 192px;
-  height: 96px;
-  position: absolute;
-  left: 51px;
-  top: 166px;
-  transform-origin: 0 0;
-  transform: rotate(0deg) scale(1, 1);
-}
-.rectangle-27 {
-  background: #2e2d2d;
-  border-radius: 20px;
-  width: 192px;
-  height: 259px;
-  position: absolute;
-  left: 289px;
-  top: 166px;
-}
-.rectangle-46 {
-  background: #ffd747;
-  border-radius: 20px 20px 0px 0px;
-  width: 192px;
-  height: 96px;
-  position: absolute;
-  left: 289px;
-  top: 166px;
-  transform-origin: 0 0;
-  transform: rotate(0deg) scale(1, 1);
-}
-.rectangle-47 {
-  background: #ffd747;
-  border-radius: 20px 20px 0px 0px;
-  width: 192px;
-  height: 96px;
-  position: absolute;
-  left: 527px;
-  top: 166px;
-  transform-origin: 0 0;
-  transform: rotate(0deg) scale(1, 1);
-}
-.rectangle-48 {
-  background: #ffd747;
-  border-radius: 20px 20px 0px 0px;
-  width: 192px;
-  height: 96px;
-  position: absolute;
-  left: 765px;
-  top: 166px;
-  transform-origin: 0 0;
-  transform: rotate(0deg) scale(1, 1);
-}
-.rectangle-49 {
-  background: #ffd747;
-  border-radius: 20px 20px 0px 0px;
-  width: 192px;
-  height: 96px;
-  position: absolute;
-  left: 1003px;
-  top: 166px;
-  transform-origin: 0 0;
-  transform: rotate(0deg) scale(1, 1);
-}
-.rectangle-50 {
-  background: #ffd747;
-  border-radius: 20px 20px 0px 0px;
-  width: 192px;
-  height: 96px;
-  position: absolute;
-  left: 1241px;
-  top: 166px;
-  transform-origin: 0 0;
-  transform: rotate(0deg) scale(1, 1);
-}
-.rectangle-39 {
-  background: #2e2d2d;
-  border-radius: 20px 20px 0px 0px;
-  width: 192px;
-  height: 96px;
-  position: absolute;
-  left: 289px;
-  top: 651px;
-}
-.rectangle-40 {
-  background: #2e2d2d;
-  border-radius: 20px 20px 0px 0px;
-  width: 192px;
-  height: 96px;
-  position: absolute;
-  left: 527px;
-  top: 651px;
-}
-.rectangle-41 {
-  background: #2e2d2d;
-  border-radius: 20px 20px 0px 0px;
-  width: 192px;
-  height: 96px;
-  position: absolute;
-  left: 765px;
-  top: 651px;
-}
-.rectangle-42 {
-  background: #2e2d2d;
-  border-radius: 20px 20px 0px 0px;
-  width: 192px;
-  height: 96px;
-  position: absolute;
-  left: 1003px;
-  top: 651px;
-}
-.rectangle-43 {
-  background: #2e2d2d;
-  border-radius: 20px 20px 0px 0px;
-  width: 192px;
-  height: 96px;
-  position: absolute;
-  left: 1241px;
-  top: 651px;
-}
-.i-nostri-servizi- {
-  color: #000000;
-  text-align: left;
-  font: 700 40px/100% "Helvetica Neue", sans-serif;
-  position: absolute;
-  left: 51px;
-  top: 54px;
-  width: 356px;
-  height: 51px;
-}
-.portierato-diurno-e-notturno {
-  color: #ffffff;
-  text-align: left;
-  font: 500 24px "Helvetica Neue", sans-serif;
-  position: absolute;
-  left: 65px;
-  top: 287px;
-  width: 112px;
-}
-.controllo-accessi {
-  color: #ffffff;
-  text-align: left;
-  font: 500 24px "Helvetica Neue", sans-serif;
-  position: absolute;
-  left: 303px;
-  top: 287px;
-  width: 108px;
-}
-.steward-per-eventi {
-  color: #ffffff;
-  text-align: left;
-  font: 500 24px "Helvetica Neue", sans-serif;
-  position: absolute;
-  left: 544px;
-  top: 287px;
-  width: 141px;
-}
-.servizi-di-prevenzione-covid-19 {
-  color: #ffffff;
-  text-align: left;
-  font: 500 24px "Helvetica Neue", sans-serif;
-  position: absolute;
-  left: 785px;
-  top: 287px;
-  width: 142px;
-}
-.hostess-e-servizi-eventi-privati {
-  color: #ffffff;
-  text-align: left;
-  font: 500 24px "Helvetica Neue", sans-serif;
-  position: absolute;
-  left: 1017px;
-  top: 287px;
-  width: 145px;
-}
-.servizi-antiincendi {
-  color: #ffffff;
-  text-align: left;
-  font: 500 24px "Helvetica Neue", sans-serif;
-  position: absolute;
-  left: 1253px;
-  top: 287px;
-  width: 123px;
-}
-.operatori-qualificati-primo-soccorso {
-  text-align: left;
-  font: 500 24px/100% "Helvetica Neue", sans-serif;
-  position: absolute;
-  left: 65px;
-  top: 678px;
-  width: 166px;
-  height: 165px;
-}
-.operatori-qualificati-primo-soccorso-span {
-  color: #ffffff;
-  font: 500 24px/100% "Helvetica Neue", sans-serif;
-}
-.operatori-qualificati-primo-soccorso-span2 {
-  color: #000000;
-  font: 500 24px/100% "Helvetica Neue", sans-serif;
-}
-.operatori-qualificati-prevenzione-incendio-rischio-alto {
-  text-align: left;
-  font: 500 24px/100% "Helvetica Neue", sans-serif;
-  position: absolute;
-  left: 303px;
-  top: 678px;
-  width: 171px;
-  height: 82px;
-}
-.operatori-qualificati-prevenzione-incendio-rischio-alto-span {
-  color: #ffffff;
-  font: 500 24px/100% "Helvetica Neue", sans-serif;
-}
-.operatori-qualificati-prevenzione-incendio-rischio-alto-span2 {
-  color: #000000;
-  font: 500 24px/100% "Helvetica Neue", sans-serif;
-}
-.operatori-qualificati-servizi-di-controllo-eventi {
-  text-align: left;
-  font: 500 24px/100% "Helvetica Neue", sans-serif;
-  position: absolute;
-  left: 544px;
-  top: 678px;
-  width: 147px;
-  height: 82px;
-}
-.operatori-qualificati-servizi-di-controllo-eventi-span {
-  color: #ffffff;
-  font: 500 24px/100% "Helvetica Neue", sans-serif;
-}
-.operatori-qualificati-servizi-di-controllo-eventi-span2 {
-  color: #000000;
-  font: 500 24px/100% "Helvetica Neue", sans-serif;
-}
-.operatori-qualificati-addetti-area-tecnica {
-  text-align: left;
-  font: 500 24px/100% "Helvetica Neue", sans-serif;
-  position: absolute;
-  left: 785px;
-  top: 678px;
-  width: 158px;
-  height: 108px;
-}
-.operatori-qualificati-addetti-area-tecnica-span {
-  color: #ffffff;
-  font: 500 24px/100% "Helvetica Neue", sans-serif;
-}
-.operatori-qualificati-addetti-area-tecnica-span2 {
-  color: #000000;
-  font: 500 24px/100% "Helvetica Neue", sans-serif;
-}
-.operatori-qualificati-bls---blsd {
-  text-align: left;
-  font: 500 24px/100% "Helvetica Neue", sans-serif;
-  position: absolute;
-  left: 1017px;
-  top: 678px;
-  width: 145px;
-}
-.operatori-qualificati-bls---blsd-span {
-  color: #ffffff;
-  font: 500 24px/100% "Helvetica Neue", sans-serif;
-}
-.operatori-qualificati-bls---blsd-span2 {
-  color: #000000;
-  font: 500 24px/100% "Helvetica Neue", sans-serif;
-}
-.adetti-qualificati-safety--security-expert {
-  text-align: left;
-  font: 500 24px/100% "Helvetica Neue", sans-serif;
-  position: absolute;
-  left: 1253px;
-  top: 678px;
-  width: 171px;
-  height: 95px;
-}
-.adetti-qualificati-safety--security-expert-span {
-  color: #ffffff;
-  font: 500 24px/100% "Helvetica Neue", sans-serif;
-}
-.adetti-qualificati-safety--security-expert-span2 {
-  color: #000000;
-  font: 500 24px/100% "Helvetica Neue", sans-serif;
-}
-.iconly-bold-shield-done {
-  width: 45px;
-  height: 45px;
-  position: absolute;
-  left: 340px;
-  top: 50px;
-}
-.shield-done {
-  position: absolute;
-  left: 6.56px;
-  top: 3.75px;
-  overflow: visible;
-}
+  .macbook-pro-14----3,
+  .macbook-pro-14----3 * {
+    box-sizing: border-box;
+  }
+  .macbook-pro-14----3 {
+    background: #000000;
+    width: 1512px;
+    height: 982px;
+    position: relative;
+    overflow: hidden;
+  }
+  .il-nostro-gruppo- {
+    color: #ffffff;
+    text-align: left;
+    font: 700 40px/100% "Helvetica Neue", sans-serif;
+    position: absolute;
+    left: 51px;
+    top: 555px;
+    width: 363px;
+    height: 56px;
+  }
+  .rectangle-25 {
+    background: #fef9f3;
+    width: 1512px;
+    height: 501px;
+    position: absolute;
+    left: 0px;
+    top: 0px;
+  }
+  .iconly-bold-3-user {
+    width: 50px;
+    height: 50px;
+    position: absolute;
+    left: 380px;
+    top: 556px;
+  }
+  ._3-user {
+    position: absolute;
+    left: 1.88px;
+    top: 7.5px;
+    overflow: visible;
+  }
+  .rectangle-44 {
+    background: #2e2d2d;
+    border-radius: 20px;
+    width: 192px;
+    height: 259px;
+    position: absolute;
+    left: 51px;
+    top: 166px;
+  }
+  .rectangle-28 {
+    background: #2e2d2d;
+    border-radius: 20px;
+    width: 192px;
+    height: 259px;
+    position: absolute;
+    left: 527px;
+    top: 166px;
+  }
+  .rectangle-29 {
+    background: #2e2d2d;
+    border-radius: 20px;
+    width: 192px;
+    height: 259px;
+    position: absolute;
+    left: 765px;
+    top: 166px;
+  }
+  .rectangle-30 {
+    background: #2e2d2d;
+    border-radius: 20px;
+    width: 192px;
+    height: 259px;
+    position: absolute;
+    left: 1003px;
+    top: 166px;
+  }
+  .rectangle-31 {
+    background: #2e2d2d;
+    border-radius: 20px;
+    width: 192px;
+    height: 259px;
+    position: absolute;
+    left: 1241px;
+    top: 166px;
+  }
+  .rectangle-32 {
+    background: #fef9f3;
+    border-radius: 20px;
+    width: 192px;
+    height: 259px;
+    position: absolute;
+    left: 51px;
+    top: 651px;
+    box-shadow: 5px 10px 4px 0px rgba(0, 0, 0, 0.25);
+  }
+  .rectangle-33 {
+    background: #fef9f3;
+    border-radius: 20px;
+    width: 192px;
+    height: 259px;
+    position: absolute;
+    left: 289px;
+    top: 651px;
+    box-shadow: 5px 10px 4px 0px rgba(0, 0, 0, 0.25);
+  }
+  .rectangle-34 {
+    background: #fef9f3;
+    border-radius: 20px;
+    width: 192px;
+    height: 259px;
+    position: absolute;
+    left: 527px;
+    top: 651px;
+    box-shadow: 5px 10px 4px 0px rgba(0, 0, 0, 0.25);
+  }
+  .rectangle-35 {
+    background: #fef9f3;
+    border-radius: 20px;
+    width: 192px;
+    height: 259px;
+    position: absolute;
+    left: 765px;
+    top: 651px;
+    box-shadow: 5px 10px 4px 0px rgba(0, 0, 0, 0.25);
+  }
+  .rectangle-36 {
+    background: #fef9f3;
+    border-radius: 20px;
+    width: 192px;
+    height: 259px;
+    position: absolute;
+    left: 1003px;
+    top: 651px;
+    box-shadow: 5px 10px 4px 0px rgba(0, 0, 0, 0.25);
+  }
+  .rectangle-37 {
+    background: #fef9f3;
+    border-radius: 20px;
+    width: 192px;
+    height: 259px;
+    position: absolute;
+    left: 1241px;
+    top: 651px;
+    box-shadow: 5px 10px 4px 0px rgba(0, 0, 0, 0.25);
+  }
+  .rectangle-38 {
+    background: #2e2d2d;
+    border-radius: 20px 20px 0px 0px;
+    width: 192px;
+    height: 96px;
+    position: absolute;
+    left: 51px;
+    top: 651px;
+  }
+  .rectangle-45 {
+    background: #ffd747;
+    border-radius: 20px 20px 0px 0px;
+    width: 192px;
+    height: 96px;
+    position: absolute;
+    left: 51px;
+    top: 166px;
+    transform-origin: 0 0;
+    transform: rotate(0deg) scale(1, 1);
+  }
+  .rectangle-27 {
+    background: #2e2d2d;
+    border-radius: 20px;
+    width: 192px;
+    height: 259px;
+    position: absolute;
+    left: 289px;
+    top: 166px;
+  }
+  .rectangle-46 {
+    background: #ffd747;
+    border-radius: 20px 20px 0px 0px;
+    width: 192px;
+    height: 96px;
+    position: absolute;
+    left: 289px;
+    top: 166px;
+    transform-origin: 0 0;
+    transform: rotate(0deg) scale(1, 1);
+  }
+  .rectangle-47 {
+    background: #ffd747;
+    border-radius: 20px 20px 0px 0px;
+    width: 192px;
+    height: 96px;
+    position: absolute;
+    left: 527px;
+    top: 166px;
+    transform-origin: 0 0;
+    transform: rotate(0deg) scale(1, 1);
+  }
+  .rectangle-48 {
+    background: #ffd747;
+    border-radius: 20px 20px 0px 0px;
+    width: 192px;
+    height: 96px;
+    position: absolute;
+    left: 765px;
+    top: 166px;
+    transform-origin: 0 0;
+    transform: rotate(0deg) scale(1, 1);
+  }
+  .rectangle-49 {
+    background: #ffd747;
+    border-radius: 20px 20px 0px 0px;
+    width: 192px;
+    height: 96px;
+    position: absolute;
+    left: 1003px;
+    top: 166px;
+    transform-origin: 0 0;
+    transform: rotate(0deg) scale(1, 1);
+  }
+  .rectangle-50 {
+    background: #ffd747;
+    border-radius: 20px 20px 0px 0px;
+    width: 192px;
+    height: 96px;
+    position: absolute;
+    left: 1241px;
+    top: 166px;
+    transform-origin: 0 0;
+    transform: rotate(0deg) scale(1, 1);
+  }
+  .rectangle-39 {
+    background: #2e2d2d;
+    border-radius: 20px 20px 0px 0px;
+    width: 192px;
+    height: 96px;
+    position: absolute;
+    left: 289px;
+    top: 651px;
+  }
+  .rectangle-40 {
+    background: #2e2d2d;
+    border-radius: 20px 20px 0px 0px;
+    width: 192px;
+    height: 96px;
+    position: absolute;
+    left: 527px;
+    top: 651px;
+  }
+  .rectangle-41 {
+    background: #2e2d2d;
+    border-radius: 20px 20px 0px 0px;
+    width: 192px;
+    height: 96px;
+    position: absolute;
+    left: 765px;
+    top: 651px;
+  }
+  .rectangle-42 {
+    background: #2e2d2d;
+    border-radius: 20px 20px 0px 0px;
+    width: 192px;
+    height: 96px;
+    position: absolute;
+    left: 1003px;
+    top: 651px;
+  }
+  .rectangle-43 {
+    background: #2e2d2d;
+    border-radius: 20px 20px 0px 0px;
+    width: 192px;
+    height: 96px;
+    position: absolute;
+    left: 1241px;
+    top: 651px;
+  }
+  .i-nostri-servizi- {
+    color: #000000;
+    text-align: left;
+    font: 700 40px/100% "Helvetica Neue", sans-serif;
+    position: absolute;
+    left: 51px;
+    top: 54px;
+    width: 356px;
+    height: 51px;
+  }
+  .portierato-diurno-e-notturno {
+    color: #ffffff;
+    text-align: left;
+    font: 500 24px "Helvetica Neue", sans-serif;
+    position: absolute;
+    left: 65px;
+    top: 287px;
+    width: 112px;
+  }
+  .controllo-accessi {
+    color: #ffffff;
+    text-align: left;
+    font: 500 24px "Helvetica Neue", sans-serif;
+    position: absolute;
+    left: 303px;
+    top: 287px;
+    width: 108px;
+  }
+  .steward-per-eventi {
+    color: #ffffff;
+    text-align: left;
+    font: 500 24px "Helvetica Neue", sans-serif;
+    position: absolute;
+    left: 544px;
+    top: 287px;
+    width: 141px;
+  }
+  .servizi-di-prevenzione-covid-19 {
+    color: #ffffff;
+    text-align: left;
+    font: 500 24px "Helvetica Neue", sans-serif;
+    position: absolute;
+    left: 785px;
+    top: 287px;
+    width: 142px;
+  }
+  .hostess-e-servizi-eventi-privati {
+    color: #ffffff;
+    text-align: left;
+    font: 500 24px "Helvetica Neue", sans-serif;
+    position: absolute;
+    left: 1017px;
+    top: 287px;
+    width: 145px;
+  }
+  .servizi-antiincendi {
+    color: #ffffff;
+    text-align: left;
+    font: 500 24px "Helvetica Neue", sans-serif;
+    position: absolute;
+    left: 1253px;
+    top: 287px;
+    width: 123px;
+  }
+  .operatori-qualificati-primo-soccorso {
+    text-align: left;
+    font: 500 24px/100% "Helvetica Neue", sans-serif;
+    position: absolute;
+    left: 65px;
+    top: 678px;
+    width: 166px;
+    height: 165px;
+  }
+  .operatori-qualificati-primo-soccorso-span {
+    color: #ffffff;
+    font: 500 24px/100% "Helvetica Neue", sans-serif;
+  }
+  .operatori-qualificati-primo-soccorso-span2 {
+    color: #000000;
+    font: 500 24px/100% "Helvetica Neue", sans-serif;
+  }
+  .operatori-qualificati-prevenzione-incendio-rischio-alto {
+    text-align: left;
+    font: 500 24px/100% "Helvetica Neue", sans-serif;
+    position: absolute;
+    left: 303px;
+    top: 678px;
+    width: 171px;
+    height: 82px;
+  }
+  .operatori-qualificati-prevenzione-incendio-rischio-alto-span {
+    color: #ffffff;
+    font: 500 24px/100% "Helvetica Neue", sans-serif;
+  }
+  .operatori-qualificati-prevenzione-incendio-rischio-alto-span2 {
+    color: #000000;
+    font: 500 24px/100% "Helvetica Neue", sans-serif;
+  }
+  .operatori-qualificati-servizi-di-controllo-eventi {
+    text-align: left;
+    font: 500 24px/100% "Helvetica Neue", sans-serif;
+    position: absolute;
+    left: 544px;
+    top: 678px;
+    width: 147px;
+    height: 82px;
+  }
+  .operatori-qualificati-servizi-di-controllo-eventi-span {
+    color: #ffffff;
+    font: 500 24px/100% "Helvetica Neue", sans-serif;
+  }
+  .operatori-qualificati-servizi-di-controllo-eventi-span2 {
+    color: #000000;
+    font: 500 24px/100% "Helvetica Neue", sans-serif;
+  }
+  .operatori-qualificati-addetti-area-tecnica {
+    text-align: left;
+    font: 500 24px/100% "Helvetica Neue", sans-serif;
+    position: absolute;
+    left: 785px;
+    top: 678px;
+    width: 158px;
+    height: 108px;
+  }
+  .operatori-qualificati-addetti-area-tecnica-span {
+    color: #ffffff;
+    font: 500 24px/100% "Helvetica Neue", sans-serif;
+  }
+  .operatori-qualificati-addetti-area-tecnica-span2 {
+    color: #000000;
+    font: 500 24px/100% "Helvetica Neue", sans-serif;
+  }
+  .operatori-qualificati-bls---blsd {
+    text-align: left;
+    font: 500 24px/100% "Helvetica Neue", sans-serif;
+    position: absolute;
+    left: 1017px;
+    top: 678px;
+    width: 145px;
+  }
+  .operatori-qualificati-bls---blsd-span {
+    color: #ffffff;
+    font: 500 24px/100% "Helvetica Neue", sans-serif;
+  }
+  .operatori-qualificati-bls---blsd-span2 {
+    color: #000000;
+    font: 500 24px/100% "Helvetica Neue", sans-serif;
+  }
+  .adetti-qualificati-safety--security-expert {
+    text-align: left;
+    font: 500 24px/100% "Helvetica Neue", sans-serif;
+    position: absolute;
+    left: 1253px;
+    top: 678px;
+    width: 171px;
+    height: 95px;
+  }
+  .adetti-qualificati-safety--security-expert-span {
+    color: #ffffff;
+    font: 500 24px/100% "Helvetica Neue", sans-serif;
+  }
+  .adetti-qualificati-safety--security-expert-span2 {
+    color: #000000;
+    font: 500 24px/100% "Helvetica Neue", sans-serif;
+  }
+  .iconly-bold-shield-done {
+    width: 45px;
+    height: 45px;
+    position: absolute;
+    left: 340px;
+    top: 50px;
+  }
+  .shield-done {
+    position: absolute;
+    left: 6.56px;
+    top: 3.75px;
+    overflow: visible;
+  }
 
-.macbook-pro-14----2,
-.macbook-pro-14----2 * {
-  box-sizing: border-box;
+  .macbook-pro-14----2,
+  .macbook-pro-14----2 * {
+    box-sizing: border-box;
+  }
+  .macbook-pro-14----2 {
+    background: #000000;
+    width: 1512px;
+    height: 982px;
+    position: relative;
+    overflow: hidden;
+  }
+  .mappa {
+    position: absolute;
+    left: 800px;
+    top: 600px;
+  }
+  .mappa1 {
+    width: 600px;
+    height: 300px;
+    border-radius: 40px;
+  }
+  .rectangle-61 {
+    background: #fef9f3;
+    width: 1512px;
+    height: 478px;
+    position: absolute;
+    left: 0px;
+    top: 0px;
+  }
+  .rectangle-60 {
+    background: #000000;
+    border-radius: 40px;
+    width: 6px;
+    height: 241px;
+    position: absolute;
+    left: 474px;
+    top: 185px;
+  }
+  .rectangle-62 {
+    background: #000000;
+    border-radius: 40px;
+    width: 6px;
+    height: 241px;
+    position: absolute;
+    left: 1023px;
+    top: 185px;
+  }
+  .iconly-bold-message {
+    width: 58px;
+    height: 58px;
+    position: absolute;
+    left: 727px;
+    top: 335px;
+  }
+  .message {
+    position: absolute;
+    left: 4.83px;
+    top: 7.25px;
+    overflow: visible;
+  }
+  .come-trovarci {
+    color: #ffffff;
+    text-align: center;
+    font: 700 36px "Helvetica Neue", sans-serif;
+    position: absolute;
+    left: 624px;
+    top: 527px;
+    width: 264px;
+    height: 43px;
+  }
+  .recapiti-telefonici-3899258449-3283077246 {
+    color: #000000;
+    text-align: center;
+    font: 400 0px "undefined", sans-serif;
+    position: absolute;
+    left: 59px;
+    top: 202px;
+    width: 364px;
+    height: 207px;
+  }
+  .recapiti-telefonici-3899258449-3283077246-span {
+    color: #000000;
+    font: 700 30px "Helvetica Neue", sans-serif;
+  }
+  .recapiti-telefonici-3899258449-3283077246-span2 {
+    color: #000000;
+    font: 400 32px ".New York", sans-serif;
+  }
+  .recapiti-telefonici-3899258449-3283077246-span3 {
+    color: #000000;
+    font: 400 28px "Helvetica Neue", sans-serif;
+  }
+  .indirizzo-email-marsica-security21-gmail-com {
+    color: #000000;
+    text-align: center;
+    font: 400 0px "undefined", sans-serif;
+    position: absolute;
+    left: 545px;
+    top: 202px;
+    width: 421px;
+    height: 108px;
+  }
+  .indirizzo-email-marsica-security21-gmail-com-span {
+    color: #000000;
+    font: 700 30px "Helvetica Neue", sans-serif;
+  }
+  .indirizzo-email-marsica-security21-gmail-com-span2 {
+    color: #000000;
+    font: 700 32px ".New York", sans-serif;
+  }
+  .indirizzo-email-marsica-security21-gmail-com-span3 {
+    color: #000000;
+    font: 400 28px "Helvetica Neue", sans-serif;
+  }
+  .lavora-con-noi-marsica-security21-gmail-com {
+    color: #000000;
+    text-align: center;
+    font: 400 0px "undefined", sans-serif;
+    position: absolute;
+    left: 1068px;
+    top: 202px;
+    width: 421px;
+    height: 132px;
+  }
+  .lavora-con-noi-marsica-security21-gmail-com-span {
+    color: #000000;
+    font: 700 32px "Helvetica Neue", sans-serif;
+  }
+  .lavora-con-noi-marsica-security21-gmail-com-span2 {
+    color: #000000;
+    font: 400 28px "Helvetica Neue", sans-serif;
+  }
+  .indirizzo-via-enea-merolli--n-94-celano--aq- {
+    color: #ffffff;
+    text-align: left;
+    font: 400 0px "undefined", sans-serif;
+    position: absolute;
+    left: 346px;
+    top: 684px;
+    width: 410px;
+    height: 107px;
+  }
+  .indirizzo-via-enea-merolli--n-94-celano--aq--span {
+    color: #ffffff;
+    font: 700 32px "Helvetica Neue", sans-serif;
+  }
+  .indirizzo-via-enea-merolli--n-94-celano--aq--span2 {
+    color: #ffffff;
+    font: 400 28px "Helvetica Neue", sans-serif;
+  }
+  .indirizzo-via-enea-merolli--n-94-celano--aq--span3 {
+    color: #ffffff;
+    font: 500 28px "Helvetica Neue", sans-serif;
+  }
+  .marsica-security2 {
+    color: #000000;
+    text-align: center;
+    font: 700 36px "Helvetica Neue", sans-serif;
+    position: absolute;
+    left: 609px;
+    top: 25px;
+  }
+  .iconly-bold-call {
+    width: 37px;
+    height: 37px;
+    position: absolute;
+    left: 101px;
+    top: 273px;
+  }
+  .call {
+    position: absolute;
+    left: 3.85px;
+    top: 3.85px;
+    overflow: visible;
+  }
+  .iconly-bold-call2 {
+    width: 37px;
+    height: 37px;
+    position: absolute;
+    left: 105px;
+    top: 340px;
+  }
+  .call2 {
+    position: absolute;
+    left: 3.85px;
+    top: 3.85px;
+    overflow: visible;
+  }
+  .iconly-bold-location {
+    width: 50px;
+    height: 50px;
+    position: absolute;
+    left: 240px;
+    top: 772px;
+  }
+  .location {
+    position: absolute;
+    left: 7.29px;
+    top: 4.17px;
+    overflow: visible;
+  }
+  .per-domande-o-richieste-di-collaborazione-contattaci-direttamente-con-i-recapiti-qui-sotto-elencati- {
+    color: #000000;
+    text-align: center;
+    font: 400 20px "Helvetica Neue", sans-serif;
+    position: absolute;
+    left: 361px;
+    top: 94px;
+    width: 789px;
+  }
+  .iconly-bold-work {
+    width: 54px;
+    height: 54px;
+    position: absolute;
+    left: 1260px;
+    top: 335px;
+  }
+  .work {
+    position: absolute;
+    left: 4.5px;
+    top: 4.5px;
+    width: 46px;
+    height: 46px;
+    overflow: visible;
+  }
 }
-.macbook-pro-14----2 {
-  background: #000000;
-  width: 1512px;
-  height: 982px;
-  position: relative;
-  overflow: hidden;
-}
-.mappa {
-  position: absolute;
-  left: 800px;
-  top: 600px;
-}
-.mappa1 {
-  width: 600px;
-  height: 300px;
-  border-radius: 40px;
-}
-.rectangle-61 {
-  background: #fef9f3;
-  width: 1512px;
-  height: 478px;
-  position: absolute;
-  left: 0px;
-  top: 0px;
-}
-.rectangle-60 {
-  background: #000000;
-  border-radius: 40px;
-  width: 6px;
-  height: 241px;
-  position: absolute;
-  left: 474px;
-  top: 185px;
-}
-.rectangle-62 {
-  background: #000000;
-  border-radius: 40px;
-  width: 6px;
-  height: 241px;
-  position: absolute;
-  left: 1023px;
-  top: 185px;
-}
-.iconly-bold-message {
-  width: 58px;
-  height: 58px;
-  position: absolute;
-  left: 727px;
-  top: 335px;
-}
-.message {
-  position: absolute;
-  left: 4.83px;
-  top: 7.25px;
-  overflow: visible;
-}
-.come-trovarci {
-  color: #ffffff;
-  text-align: center;
-  font: 700 36px "Helvetica Neue", sans-serif;
-  position: absolute;
-  left: 624px;
-  top: 527px;
-  width: 264px;
-  height: 43px;
-}
-.recapiti-telefonici-3899258449-3283077246 {
-  color: #000000;
-  text-align: center;
-  font: 400 0px "undefined", sans-serif;
-  position: absolute;
-  left: 59px;
-  top: 202px;
-  width: 364px;
-  height: 207px;
-}
-.recapiti-telefonici-3899258449-3283077246-span {
-  color: #000000;
-  font: 700 30px "Helvetica Neue", sans-serif;
-}
-.recapiti-telefonici-3899258449-3283077246-span2 {
-  color: #000000;
-  font: 400 32px ".New York", sans-serif;
-}
-.recapiti-telefonici-3899258449-3283077246-span3 {
-  color: #000000;
-  font: 400 28px "Helvetica Neue", sans-serif;
-}
-.indirizzo-email-marsica-security21-gmail-com {
-  color: #000000;
-  text-align: center;
-  font: 400 0px "undefined", sans-serif;
-  position: absolute;
-  left: 545px;
-  top: 202px;
-  width: 421px;
-  height: 108px;
-}
-.indirizzo-email-marsica-security21-gmail-com-span {
-  color: #000000;
-  font: 700 30px "Helvetica Neue", sans-serif;
-}
-.indirizzo-email-marsica-security21-gmail-com-span2 {
-  color: #000000;
-  font: 700 32px ".New York", sans-serif;
-}
-.indirizzo-email-marsica-security21-gmail-com-span3 {
-  color: #000000;
-  font: 400 28px "Helvetica Neue", sans-serif;
-}
-.lavora-con-noi-marsica-security21-gmail-com {
-  color: #000000;
-  text-align: center;
-  font: 400 0px "undefined", sans-serif;
-  position: absolute;
-  left: 1068px;
-  top: 202px;
-  width: 421px;
-  height: 132px;
-}
-.lavora-con-noi-marsica-security21-gmail-com-span {
-  color: #000000;
-  font: 700 32px "Helvetica Neue", sans-serif;
-}
-.lavora-con-noi-marsica-security21-gmail-com-span2 {
-  color: #000000;
-  font: 400 28px "Helvetica Neue", sans-serif;
-}
-.indirizzo-via-enea-merolli--n-94-celano--aq- {
-  color: #ffffff;
-  text-align: left;
-  font: 400 0px "undefined", sans-serif;
-  position: absolute;
-  left: 346px;
-  top: 684px;
-  width: 410px;
-  height: 107px;
-}
-.indirizzo-via-enea-merolli--n-94-celano--aq--span {
-  color: #ffffff;
-  font: 700 32px "Helvetica Neue", sans-serif;
-}
-.indirizzo-via-enea-merolli--n-94-celano--aq--span2 {
-  color: #ffffff;
-  font: 400 28px "Helvetica Neue", sans-serif;
-}
-.indirizzo-via-enea-merolli--n-94-celano--aq--span3 {
-  color: #ffffff;
-  font: 500 28px "Helvetica Neue", sans-serif;
-}
-.marsica-security2 {
-  color: #000000;
-  text-align: center;
-  font: 700 36px "Helvetica Neue", sans-serif;
-  position: absolute;
-  left: 609px;
-  top: 25px;
-}
-.iconly-bold-call {
-  width: 37px;
-  height: 37px;
-  position: absolute;
-  left: 101px;
-  top: 273px;
-}
-.call {
-  position: absolute;
-  left: 3.85px;
-  top: 3.85px;
-  overflow: visible;
-}
-.iconly-bold-call2 {
-  width: 37px;
-  height: 37px;
-  position: absolute;
-  left: 105px;
-  top: 340px;
-}
-.call2 {
-  position: absolute;
-  left: 3.85px;
-  top: 3.85px;
-  overflow: visible;
-}
-.iconly-bold-location {
-  width: 50px;
-  height: 50px;
-  position: absolute;
-  left: 240px;
-  top: 772px;
-}
-.location {
-  position: absolute;
-  left: 7.29px;
-  top: 4.17px;
-  overflow: visible;
-}
-.per-domande-o-richieste-di-collaborazione-contattaci-direttamente-con-i-recapiti-qui-sotto-elencati- {
-  color: #000000;
-  text-align: center;
-  font: 400 20px "Helvetica Neue", sans-serif;
-  position: absolute;
-  left: 361px;
-  top: 94px;
-  width: 789px;
-}
-.iconly-bold-work {
-  width: 54px;
-  height: 54px;
-  position: absolute;
-  left: 1260px;
-  top: 335px;
-}
-.work {
-  position: absolute;
-  left: 4.5px;
-  top: 4.5px;
-  width: 46px;
-  height: 46px;
-  overflow: visible;
-}
-
 @media screen and (max-width: 600px) {
   .macbook-pro-14----4,
   .macbook-pro-14----4 * {
