@@ -11,7 +11,7 @@ a {
 a:hover {
   color: #ffd747;
 }
-@media screen and (max-width: 3000px) {
+@media screen and (max-width: 1512px) {
   .macbook-pro-14----4,
   .macbook-pro-14----4 * {
     box-sizing: border-box;
@@ -794,7 +794,7 @@ a:hover {
     overflow: visible;
   }
 }
-@media screen and (max-width: 600px) {
+@media screen and (max-width: 000px) {
   .macbook-pro-14----4,
   .macbook-pro-14----4 * {
     box-sizing: border-box;
