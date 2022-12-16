@@ -79,17 +79,8 @@ a:hover {
   color: #000000;
   text-decoration: none;
 }
-.home {
-  color: #000000;
-  text-align: left;
-  font: 400 24px/100% "Helvetica Neue", sans-serif;
-  position: absolute;
-  left: 872px;
-  top: 57px;
-}
-.home a {
-  color: #000000;
-  text-decoration: none;
+.chi-siamo a:hover{
+  color: #ffd747;
 }
 .servizi {
   color: #000000;
@@ -567,7 +558,7 @@ a:hover {
   height: 45px;
   position: absolute;
   left: 340px;
-  top: 54px;
+  top: 50px;
 }
 .shield-done {
   position: absolute;
@@ -871,9 +862,6 @@ a:hover {
     height: 244.69px;
   }
   .chi-siamo {
-    visibility: hidden;
-  }
-  .home {
     visibility: hidden;
   }
   .servizi {
