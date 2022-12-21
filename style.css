@@ -10,7 +10,782 @@ a {
 a:hover {
   color: #ffd747;
 }
-@media screen and (max-width: 4000px) and (min-width: 1410px) {
+/*Desktop alta risoluzione*/
+@media screen and (max-width: 2560px) and (min-width: 1920px) {
+  .macbook-pro-14----4,
+  .macbook-pro-14----4 * {
+    box-sizing: border-box;
+  }
+  .macbook-pro-14----4 {
+    background-image: url("sfondo.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 1920px;
+    height: 1246.7px;
+    position: relative;
+    overflow: hidden;
+  }
+  .rectangle-19 {
+    background: #ffffff;
+    border-radius: 30px;
+    width: 144.44px;
+    height: 79.03px;
+    position: absolute;
+    left: 70.86px;
+    top: 708.59px;
+  }
+  .azienda-nel-settore-dal-2004--se-vuoi-scoprire-di-pi--premi {
+    color: #ffffff;
+    text-align: left;
+    font: 700 48px/100% "Helvetica Neue", sans-serif;
+    position: absolute;
+    left: 71.11px;
+    top: 478.62px;
+    width: 694.6px;
+    height: 152.35px;
+  }
+  .chevron-down-24 {
+    position: absolute;
+    left: 109.01px;
+    top: 712.68px;
+    transform: translate(0px, 0px);
+    overflow: visible;
+  }
+  .rectangle-18 {
+    background: #ffffff;
+    border-radius: 15px;
+    width: 1920px;
+    height: 204.4px;
+    position: absolute;
+    left: 0px;
+    top: -26.66px;
+  }
+  .marsica-security {
+    color: #000000;
+    text-align: left;
+    font: 700 58px/100% "Helvetica Neue", sans-serif;
+    position: absolute;
+    left: 193.02px;
+    top: 57.13px;
+    width: 487.62px;
+    height: 60.94px;
+  }
+  .chi-siamo {
+    color: #000000;
+    text-align: left;
+    font: 400 32px/100% "Helvetica Neue", sans-serif;
+    position: absolute;
+    left: 1450px;
+    top: 77px;
+    width: 145px;
+    height: 31px;
+  }
+  .servizi {
+    color: #000000;
+    text-align: left;
+    font: 400 32px/100% "Helvetica Neue", sans-serif;
+    position: absolute;
+    left: 1253px;
+    top: 77px;
+    width: 95px;
+    height: 31px;
+  }
+  .contattaci {
+    color: #000000;
+    text-align: left;
+    font: 400 32px/100% "Helvetica Neue", sans-serif;
+    position: absolute;
+    left: 1698px;
+    top: 77px;
+    width: 150px;
+    height: 31px;
+  }
+  .logo {
+    width: 96.51px;
+    height: 111.72px;
+    position: absolute;
+    left: 52.06px;
+    top: 31.74px;
+  }
+  .macbook-pro-14----3,
+  .macbook-pro-14----3 * {
+    box-sizing: border-box;
+  }
+  .macbook-pro-14----3 {
+    background: #000000;
+    width: 1920px;
+    height: 1247.6px;
+    position: relative;
+    overflow: hidden;
+  }
+  .rectangle-25 {
+    background: #fef9f3;
+    width: 1920px;
+    height: 626px;
+    position: absolute;
+    left: 0px;
+    top: 0px;
+  }
+  .i-nostri-servizi- {
+    color: #000000;
+    text-align: left;
+    font: 700 48px/100% "Helvetica Neue", sans-serif;
+    position: absolute;
+    left: 51px;
+    top: 76px;
+    width: 356px;
+    height: 51px;
+  }
+  .iconly-bold-shield-done {
+    width: 69px;
+    height: 69px;
+    position: absolute;
+    left: 407px;
+    top: 70px;
+  }
+  .shield-done {
+    position: absolute;
+    left: 10.06px;
+    top: 5.75px;
+    overflow: visible;
+  }
+  .il-nostro-gruppo- {
+    color: #ffffff;
+    text-align: left;
+    font: 700 48px/100% "Helvetica Neue", sans-serif;
+    position: absolute;
+    left: 51px;
+    top: 701px;
+    width: 389px;
+    height: 45px;
+  }
+  .iconly-bold-3-user {
+    width: 55px;
+    height: 55px;
+    position: absolute;
+    left: 463px;
+    top: 706px;
+  }
+  ._3-user {
+    position: absolute;
+    left: 2.29px;
+    top: 9.17px;
+    overflow: visible;
+  }
+  .rectangle-44 {
+    background: #2e2d2d;
+    border-radius: 20px;
+    width: 248px;
+    height: 338px;
+    position: absolute;
+    left: 51px;
+    top: 197px;
+  }
+  .rectangle-28 {
+    background: #2e2d2d;
+    border-radius: 20px;
+    width: 248px;
+    height: 338px;
+    position: absolute;
+    left: 671px;
+    top: 197px;
+  }
+  .rectangle-29 {
+    background: #2e2d2d;
+    border-radius: 20px;
+    width: 248px;
+    height: 338px;
+    position: absolute;
+    left: 971px;
+    top: 197px;
+  }
+  .rectangle-30 {
+    background: #2e2d2d;
+    border-radius: 20px;
+    width: 248px;
+    height: 338px;
+    position: absolute;
+    left: 1282px;
+    top: 197px;
+  }
+  .rectangle-31 {
+    background: #2e2d2d;
+    border-radius: 20px;
+    width: 248px;
+    height: 338px;
+    position: absolute;
+    left: 1589px;
+    top: 197px;
+  }
+  .rectangle-32 {
+    background: #fef9f3;
+    border-radius: 20px;
+    width: 248px;
+    height: 338px;
+    position: absolute;
+    left: 51px;
+    top: 821px;
+    box-shadow: 5px 10px 4px 0px rgba(0, 0, 0, 0.25);
+  }
+  .rectangle-33 {
+    background: #fef9f3;
+    border-radius: 20px;
+    width: 249px;
+    height: 338px;
+    position: absolute;
+    left: 358px;
+    top: 821px;
+    box-shadow: 5px 10px 4px 0px rgba(0, 0, 0, 0.25);
+  }
+  .rectangle-34 {
+    background: #fef9f3;
+    border-radius: 20px;
+    width: 248px;
+    height: 338px;
+    position: absolute;
+    left: 667px;
+    top: 821px;
+    box-shadow: 5px 10px 4px 0px rgba(0, 0, 0, 0.25);
+  }
+  .rectangle-35 {
+    background: #fef9f3;
+    border-radius: 20px;
+    width: 246px;
+    height: 338px;
+    position: absolute;
+    left: 975px;
+    top: 821px;
+    box-shadow: 5px 10px 4px 0px rgba(0, 0, 0, 0.25);
+  }
+  .rectangle-36 {
+    background: #fef9f3;
+    border-radius: 20px;
+    width: 249px;
+    height: 338px;
+    position: absolute;
+    left: 1281px;
+    top: 821px;
+    box-shadow: 5px 10px 4px 0px rgba(0, 0, 0, 0.25);
+  }
+  .rectangle-37 {
+    background: #fef9f3;
+    border-radius: 20px;
+    width: 248px;
+    height: 338px;
+    position: absolute;
+    left: 1589px;
+    top: 821px;
+    box-shadow: 5px 10px 4px 0px rgba(0, 0, 0, 0.25);
+  }
+  .rectangle-38 {
+    background: #2e2d2d;
+    border-radius: 20px 20px 0px 0px;
+    width: 248px;
+    height: 123px;
+    position: absolute;
+    left: 51px;
+    top: 821px;
+  }
+  .rectangle-45 {
+    background: #ffd747;
+    border-radius: 20px 20px 0px 0px;
+    width: 248px;
+    height: 125px;
+    position: absolute;
+    left: 51px;
+    top: 197px;
+    transform-origin: 0 0;
+    transform: rotate(0deg) scale(1, 1);
+  }
+  .rectangle-27 {
+    background: #2e2d2d;
+    border-radius: 20px;
+    width: 248px;
+    height: 338px;
+    position: absolute;
+    left: 362px;
+    top: 197px;
+  }
+  .rectangle-46 {
+    background: #ffd747;
+    border-radius: 20px 20px 0px 0px;
+    width: 248px;
+    height: 125px;
+    position: absolute;
+    left: 362px;
+    top: 197px;
+    transform-origin: 0 0;
+    transform: rotate(0deg) scale(1, 1);
+  }
+  .rectangle-47 {
+    background: #ffd747;
+    border-radius: 20px 20px 0px 0px;
+    width: 248px;
+    height: 125px;
+    position: absolute;
+    left: 671px;
+    top: 197px;
+    transform-origin: 0 0;
+    transform: rotate(0deg) scale(1, 1);
+  }
+  .rectangle-48 {
+    background: #ffd747;
+    border-radius: 20px 20px 0px 0px;
+    width: 248px;
+    height: 125px;
+    position: absolute;
+    left: 971px;
+    top: 197px;
+    transform-origin: 0 0;
+    transform: rotate(0deg) scale(1, 1);
+  }
+  .rectangle-49 {
+    background: #ffd747;
+    border-radius: 20px 20px 0px 0px;
+    width: 248px;
+    height: 125px;
+    position: absolute;
+    left: 1282px;
+    top: 197px;
+    transform-origin: 0 0;
+    transform: rotate(0deg) scale(1, 1);
+  }
+  .rectangle-50 {
+    background: #ffd747;
+    border-radius: 20px 20px 0px 0px;
+    width: 248px;
+    height: 125px;
+    position: absolute;
+    left: 1589px;
+    top: 197px;
+    transform-origin: 0 0;
+    transform: rotate(0deg) scale(1, 1);
+  }
+  .rectangle-39 {
+    background: #2e2d2d;
+    border-radius: 20px 20px 0px 0px;
+    width: 249px;
+    height: 123px;
+    position: absolute;
+    left: 358px;
+    top: 821px;
+  }
+  .rectangle-40 {
+    background: #2e2d2d;
+    border-radius: 20px 20px 0px 0px;
+    width: 248px;
+    height: 123px;
+    position: absolute;
+    left: 667px;
+    top: 821px;
+  }
+  .rectangle-41 {
+    background: #2e2d2d;
+    border-radius: 20px 20px 0px 0px;
+    width: 246px;
+    height: 123px;
+    position: absolute;
+    left: 975px;
+    top: 821px;
+  }
+  .rectangle-42 {
+    background: #2e2d2d;
+    border-radius: 20px 20px 0px 0px;
+    width: 249px;
+    height: 123px;
+    position: absolute;
+    left: 1281px;
+    top: 821px;
+  }
+  .rectangle-43 {
+    background: #2e2d2d;
+    border-radius: 20px 20px 0px 0px;
+    width: 248px;
+    height: 123px;
+    position: absolute;
+    left: 1589px;
+    top: 821px;
+  }
+  .portierato-diurno-e-notturno {
+    color: #ffffff;
+    text-align: left;
+    font: 500 30px "Helvetica Neue", sans-serif;
+    position: absolute;
+    left: 74px;
+    top: 336px;
+    width: 145px;
+    height: 114px;
+  }
+  .controllo-accessi {
+    color: #ffffff;
+    text-align: left;
+    font: 500 30px "Helvetica Neue", sans-serif;
+    position: absolute;
+    left: 382px;
+    top: 336px;
+    width: 142px;
+    height: 75px;
+  }
+  .steward-per-eventi {
+    color: #ffffff;
+    text-align: left;
+    font: 500 30px "Helvetica Neue", sans-serif;
+    position: absolute;
+    left: 696px;
+    top: 336px;
+    width: 185px;
+    height: 75px;
+  }
+  .servizi-di-prevenzione-covid-19 {
+    color: #ffffff;
+    text-align: left;
+    font: 500 30px "Helvetica Neue", sans-serif;
+    position: absolute;
+    left: 993px;
+    top: 336px;
+    width: 187px;
+    height: 114px;
+  }
+  .hostess-e-servizi-eventi-privati {
+    color: #ffffff;
+    text-align: left;
+    font: 500 30px "Helvetica Neue", sans-serif;
+    position: absolute;
+    left: 1296px;
+    top: 336px;
+    width: 190px;
+    height: 114px;
+  }
+  .servizi-antiincendi {
+    color: #ffffff;
+    text-align: left;
+    font: 500 30px "Helvetica Neue", sans-serif;
+    position: absolute;
+    left: 1604px;
+    top: 336px;
+    width: 160px;
+    height: 75px;
+  }
+  .operatori-qualificati-primo-soccorso {
+    text-align: left;
+    font: 500 30px/100% "Helvetica Neue", sans-serif;
+    position: absolute;
+    left: 69px;
+    top: 858px;
+    width: 192px;
+    height: 211px;
+  }
+  .operatori-qualificati-primo-soccorso-span {
+    color: #ffffff;
+    font: 500 30px/100% "Helvetica Neue", sans-serif;
+  }
+  .operatori-qualificati-primo-soccorso-span2 {
+    color: #000000;
+    font: 500 30px/100% "Helvetica Neue", sans-serif;
+  }
+  .operatori-qualificati-prevenzione-incendio-rischio-alto {
+    text-align: left;
+    font: 500 30px/100% "Helvetica Neue", sans-serif;
+    position: absolute;
+    left: 378px;
+    top: 858px;
+    width: 179px;
+    height: 104px;
+  }
+  .operatori-qualificati-prevenzione-incendio-rischio-alto-span {
+    color: #ffffff;
+    font: 500 30px/100% "Helvetica Neue", sans-serif;
+  }
+  .operatori-qualificati-prevenzione-incendio-rischio-alto-span2 {
+    color: #000000;
+    font: 500 30px/100% "Helvetica Neue", sans-serif;
+  }
+  .operatori-qualificati-servizi-di-controllo-eventi {
+    text-align: left;
+    font: 500 30px/100% "Helvetica Neue", sans-serif;
+    position: absolute;
+    left: 689px;
+    top: 858px;
+    width: 190px;
+    height: 104px;
+  }
+  .operatori-qualificati-servizi-di-controllo-eventi-span {
+    color: #ffffff;
+    font: 500 30px/100% "Helvetica Neue", sans-serif;
+  }
+  .operatori-qualificati-servizi-di-controllo-eventi-span2 {
+    color: #000000;
+    font: 500 30px/100% "Helvetica Neue", sans-serif;
+  }
+  .operatori-qualificati-addetti-area-tecnica {
+    text-align: left;
+    font: 500 30px/100% "Helvetica Neue", sans-serif;
+    position: absolute;
+    left: 998px;
+    top: 858px;
+    width: 207px;
+    height: 139px;
+  }
+  .operatori-qualificati-addetti-area-tecnica-span {
+    color: #ffffff;
+    font: 500 30px/100% "Helvetica Neue", sans-serif;
+  }
+  .operatori-qualificati-addetti-area-tecnica-span2 {
+    color: #000000;
+    font: 500 30px/100% "Helvetica Neue", sans-serif;
+  }
+  .operatori-qualificati-bls---blsd {
+    text-align: left;
+    font: 500 30px/100% "Helvetica Neue", sans-serif;
+    position: absolute;
+    left: 1298px;
+    top: 858px;
+    width: 186px;
+    height: 153px;
+  }
+  .operatori-qualificati-bls---blsd-span {
+    color: #ffffff;
+    font: 500 30px/100% "Helvetica Neue", sans-serif;
+  }
+  .operatori-qualificati-bls---blsd-span2 {
+    color: #000000;
+    font: 500 30px/100% "Helvetica Neue", sans-serif;
+  }
+  .adetti-qualificati-safety--security-expert {
+    text-align: left;
+    font: 500 30px/100% "Helvetica Neue", sans-serif;
+    position: absolute;
+    left: 1611px;
+    top: 858px;
+    width: 193px;
+    height: 245px;
+  }
+  .adetti-qualificati-safety--security-expert-span {
+    color: #ffffff;
+    font: 500 30px/100% "Helvetica Neue", sans-serif;
+  }
+  .adetti-qualificati-safety--security-expert-span2 {
+    color: #000000;
+    font: 500 30px/100% "Helvetica Neue", sans-serif;
+  }
+  .macbook-pro-14----2,
+  .macbook-pro-14----2 * {
+    box-sizing: border-box;
+  }
+  .macbook-pro-14----2 {
+    background: #000000;
+    width: 1920px;
+    height: 1247.6px;
+    position: relative;
+    overflow: hidden;
+  }
+  .rectangle-61 {
+    background: #fef9f3;
+    width: 1920px;
+    height: 607.28px;
+    position: absolute;
+    left: 0px;
+    top: 0px;
+  }
+  .rectangle-60 {
+    background: #000000;
+    border-radius: 40px;
+    width: 7.62px;
+    height: 306.18px;
+    position: absolute;
+    left: 601.9px;
+    top: 235.04px;
+  }
+  .rectangle-62 {
+    background: #000000;
+    border-radius: 40px;
+    width: 7.62px;
+    height: 306.18px;
+    position: absolute;
+    left: 1299.05px;
+    top: 235.04px;
+  }
+  .iconly-bold-message {
+    width: 73.65px;
+    height: 73.69px;
+    position: absolute;
+    left: 923.17px;
+    top: 425.61px;
+  }
+  .message {
+    position: absolute;
+    left: 6.14px;
+    top: 9.21px;
+    overflow: visible;
+  }
+  .come-trovarci {
+    color: #ffffff;
+    text-align: center;
+    font: 700 40px "Helvetica Neue", sans-serif;
+    position: absolute;
+    left: 791.33px;
+    top: 669.05px;
+    width: 337.34px;
+    height: 71.68px;
+  }
+  .recapiti-telefonici-3899258449-3283077246 {
+    color: #000000;
+    text-align: center;
+    font: 400 0px "undefined", sans-serif;
+    position: absolute;
+    left: 74.92px;
+    top: 256.63px;
+    width: 462.22px;
+    height: 262.99px;
+  }
+  .recapiti-telefonici-3899258449-3283077246-span {
+    color: #000000;
+    font: 700 40px "Helvetica Neue", sans-serif;
+  }
+  .recapiti-telefonici-3899258449-3283077246-span2 {
+    color: #000000;
+    font: 400 32px ".New York", sans-serif;
+  }
+  .recapiti-telefonici-3899258449-3283077246-span3 {
+    color: #000000;
+    font: 400 32px "Helvetica Neue", sans-serif;
+  }
+  .indirizzo-email-marsica-security21-gmail-com {
+    color: #000000;
+    text-align: center;
+    font: 400 0px "undefined", sans-serif;
+    position: absolute;
+    left: 692.06px;
+    top: 256.63px;
+    width: 534.6px;
+    height: 137.21px;
+  }
+  .indirizzo-email-marsica-security21-gmail-com-span {
+    color: #000000;
+    font: 700 40px "Helvetica Neue", sans-serif;
+  }
+  .indirizzo-email-marsica-security21-gmail-com-span2 {
+    color: #000000;
+    font: 700 32px ".New York", sans-serif;
+  }
+  .indirizzo-email-marsica-security21-gmail-com-span3 {
+    color: #000000;
+    font: 400 32px "Helvetica Neue", sans-serif;
+  }
+  .lavora-con-noi-marsica-security21-gmail-com {
+    color: #000000;
+    text-align: center;
+    font: 400 0px "undefined", sans-serif;
+    position: absolute;
+    left: 1356.19px;
+    top: 256.63px;
+    width: 534.6px;
+    height: 167.7px;
+  }
+  .lavora-con-noi-marsica-security21-gmail-com-span {
+    color: #000000;
+    font: 700 40px "Helvetica Neue", sans-serif;
+  }
+  .lavora-con-noi-marsica-security21-gmail-com-span2 {
+    color: #000000;
+    font: 400 32px "Helvetica Neue", sans-serif;
+  }
+  .indirizzo-via-enea-merolli--n-94-celano--aq- {
+    color: #ffffff;
+    text-align: left;
+    font: 400 0px "undefined", sans-serif;
+    position: absolute;
+    left: 438.78px;
+    top: 868.55px;
+    width: 335.22px;
+    height: 136.35px;
+  }
+  .indirizzo-via-enea-merolli--n-94-celano--aq--span {
+    color: #ffffff;
+    font: 700 40px "Helvetica Neue", sans-serif;
+  }
+  .indirizzo-via-enea-merolli--n-94-celano--aq--span2 {
+    color: #ffffff;
+    font: 400 32px "Helvetica Neue", sans-serif;
+  }
+  .indirizzo-via-enea-merolli--n-94-celano--aq--span3 {
+    color: #ffffff;
+    font: 500 32px "Helvetica Neue", sans-serif;
+  }
+  .marsica-security2 {
+    color: #000000;
+    text-align: center;
+    font: 700 40px "Helvetica Neue", sans-serif;
+    position: absolute;
+    left: 773.33px;
+    top: 31.76px;
+    width: 373.33px;
+    height: 55.9px;
+  }
+  .iconly-bold-call {
+    width: 46.98px;
+    height: 47.01px;
+    position: absolute;
+    left: 128px;
+    top: 337px;
+  }
+  .call {
+    position: absolute;
+    left: 4.89px;
+    top: 4.9px;
+    overflow: visible;
+  }
+  .iconly-bold-call2 {
+    width: 46.98px;
+    height: 47.01px;
+    position: absolute;
+    left: 133px;
+    top: 416px;
+  }
+  .call2 {
+    position: absolute;
+    left: 4.89px;
+    top: 4.9px;
+    overflow: visible;
+  }
+  .iconly-bold-location {
+    width: 63.49px;
+    height: 63.52px;
+    position: absolute;
+    left: 324px;
+    top: 961px;
+  }
+  .location {
+    position: absolute;
+    left: 9.26px;
+    top: 5.29px;
+    overflow: visible;
+  }
+  .per-domande-o-richieste-di-collaborazione-contattaci-direttamente-con-i-recapiti-qui-sotto-elencati- {
+    color: #000000;
+    text-align: center;
+    font: 400 28px "Helvetica Neue", sans-serif;
+    position: absolute;
+    left: 458px;
+    top: 109px;
+    width: 1001.9px;
+    height: 60.98px;
+  }
+  .iconly-bold-work {
+    width: 68.57px;
+    height: 68.61px;
+    position: absolute;
+    left: 1600px;
+    top: 425.61px;
+  }
+  .work {
+    position: absolute;
+    left: 5.71px;
+    top: 5.72px;
+    overflow: visible;
+  }
+}
+@media screen and (max-width: 1919px) and (min-width: 1410px) {
   .macbook-pro-14----4,
   .macbook-pro-14----4 * {
     box-sizing: border-box;
@@ -566,7 +1341,6 @@ a:hover {
     top: 3.75px;
     overflow: visible;
   }
-
   .macbook-pro-14----2,
   .macbook-pro-14----2 * {
     box-sizing: border-box;
@@ -792,8 +1566,103 @@ a:hover {
     height: 46px;
     overflow: visible;
   }
+  .macbook-pro-14----5,
+  .macbook-pro-14----5 * {
+    box-sizing: border-box;
+  }
+  .macbook-pro-14----5 {
+    background: #fef9f3;
+    width: 1512px;
+    height: 623px;
+    position: relative;
+    overflow: hidden;
+    display: flex;
+    padding: 0 35px;
+    min-height: 80vh;
+    align-items: center;
+    justify-content: center;
+  }
+  .foto {
+    color: #000000;
+    text-align: center;
+    font: 700 40px "Helvetica Neue", sans-serif;
+    position: absolute;
+    left: 681px;
+    top: 37px;
+    width: 97px;
+    height: 41px;
+  }
+  .iconly-bold-image-2 {
+    width: 43.31px;
+    height: 43.31px;
+    position: absolute;
+    left: 787px;
+    top: 37.44px;
+  }
+  .image-2 {
+    position: absolute;
+    left: 3.61px;
+    top: 3.61px;
+    overflow: visible;
+  }
+  .wrapper {
+    display: flex;
+    max-width: 1512px;
+    position: relative;
+  }
+  .wrapper i {
+    top: 50%;
+    height: 44px;
+    width: 44px;
+    color: #343f4f;
+    cursor: pointer;
+    font-size: 1.15rem;
+    position: absolute;
+    text-align: center;
+    line-height: 44px;
+    background: #ffd747;
+    border-radius: 50%;
+    transform: translateY(-50%);
+    transition: transform 0.1s linear;
+  }
+  .wrapper i:active {
+    transform: translateY(-50%) scale(0.9);
+  }
+  /*.wrapper i:hover {
+  }*/
+  .wrapper i:first-child {
+    left: -22px;
+    display: none;
+  }
+  .wrapper i:last-child {
+    right: -22px;
+  }
+  .wrapper .carousel {
+    font-size: 0px;
+    cursor: pointer;
+    overflow: hidden;
+    white-space: nowrap;
+    scroll-behavior: smooth;
+  }
+  .carousel.dragging {
+    cursor: grab;
+    scroll-behavior: auto;
+  }
+  .carousel.dragging img {
+    pointer-events: none;
+  }
+  .carousel img {
+    height: 380px;
+    object-fit: cover;
+    user-select: none;
+    margin-left: 14px;
+    width: calc(100% / 3);
+  }
+  .carousel img:first-child {
+    margin-left: 0px;
+  }
 }
-@media screen and (max-width: 1409px) and (min-width: 1326px) {
+@media screen and (max-width: 1409px) and (min-width: 1366px) {
   .macbook-pro-14----4,
   .macbook-pro-14----4 * {
     box-sizing: border-box;
@@ -1577,7 +2446,8 @@ a:hover {
     overflow: visible;
   }
 }
-@media screen and (max-width: 1326px) and (min-width: 1206px) {
+/*Desktop*/
+@media screen and (max-width: 1366px) and (min-width: 1281px) {
   .macbook-pro-14----4,
   .macbook-pro-14----4 * {
     box-sizing: border-box;
@@ -1586,102 +2456,102 @@ a:hover {
     background-image: url("sfondo.png");
     background-size: cover;
     background-repeat: no-repeat;
-    width: 1326px;
-    height: 861px;
+    width: 1366px;
+    height: 886.97px;
     position: relative;
     overflow: hidden;
   }
   .rectangle-19 {
     background: #ffffff;
     border-radius: 30px;
-    width: 84.19px;
-    height: 46.47px;
+    width: 102.77px;
+    height: 56.23px;
     position: absolute;
-    left: 49.11px;
-    top: 489.24px;
+    left: 50.41px;
+    top: 504.13px;
   }
   .azienda-nel-settore-dal-2004--se-vuoi-scoprire-di-pi--premi {
     color: #ffffff;
     text-align: left;
-    font: 700 32px/100% "Helvetica Neue", sans-serif;
+    font: 700 36px/100% "Helvetica Neue", sans-serif;
     position: absolute;
-    left: 49.11px;
-    top: 330.55px;
-    width: 479.71px;
-    height: 105.21px;
+    left: 50.59px;
+    top: 340.52px;
+    width: 494.18px;
+    height: 108.39px;
   }
   .chevron-down-24 {
     position: absolute;
-    left: 71.04px;
-    top: 491.87px;
+    left: 77.56px;
+    top: 507.04px;
     transform: translate(0px, 0px);
     overflow: visible;
   }
   .rectangle-18 {
     background: #ffffff;
     border-radius: 15px;
-    width: 1326px;
-    height: 141.16px;
+    width: 1366px;
+    height: 145.42px;
     position: absolute;
     left: 0px;
-    top: -18.41px;
+    top: -18.97px;
   }
   .marsica-security {
     color: #000000;
     text-align: left;
     font: 700 40px/100% "Helvetica Neue", sans-serif;
     position: absolute;
-    left: 133.3px;
-    top: 39.46px;
-    width: 336.76px;
-    height: 42.09px;
+    left: 137.32px;
+    top: 40.65px;
+    width: 346.92px;
+    height: 43.36px;
   }
   .chi-siamo {
     color: #000000;
     text-align: left;
-    font: 400 20px/100% "Helvetica Neue", sans-serif;
+    font: 400 21px/100% "Helvetica Neue", sans-serif;
     position: absolute;
-    left: 1017.3px;
-    top: 49.98px;
-    width: 94.71px;
-    height: 21.04px;
+    left: 1047.99px;
+    top: 51.48px;
+    width: 97.57px;
+    height: 21.68px;
   }
   .home {
     color: #000000;
     text-align: left;
-    font: 400 20px/100% "Helvetica Neue", sans-serif;
+    font: 400 21px/100% "Helvetica Neue", sans-serif;
     position: absolute;
-    left: 764.73px;
-    top: 49.98px;
-    width: 57px;
-    height: 21.04px;
+    left: 787.8px;
+    top: 51px;
+    width: 58.72px;
+    height: 21.68px;
   }
   .servizi {
     color: #000000;
     text-align: left;
-    font: 400 20px/100% "Helvetica Neue", sans-serif;
+    font: 400 21px/100% "Helvetica Neue", sans-serif;
     position: absolute;
-    left: 888.38px;
-    top: 49.98px;
-    width: 62.27px;
-    height: 21.04px;
+    left: 915.18px;
+    top: 51.48px;
+    width: 64.14px;
+    height: 21.68px;
   }
   .contattaci {
     color: #000000;
     text-align: left;
-    font: 400 20px/100% "Helvetica Neue", sans-serif;
+    font: 400 21px/100% "Helvetica Neue", sans-serif;
     position: absolute;
-    left: 1178.67px;
-    top: 49.98px;
-    width: 98.22px;
-    height: 21.04px;
+    left: 1214.22px;
+    top: 51.48px;
+    width: 101.19px;
+    height: 21.68px;
   }
   .logo {
-    width: 66.65px;
-    height: 77.16px;
+    width: 68.66px;
+    height: 79.48px;
     position: absolute;
-    left: 35.96px;
-    top: 21.92px;
+    left: 37.04px;
+    top: 22.58px;
   }
   .macbook-pro-14----3,
   .macbook-pro-14----3 * {
@@ -1689,8 +2559,8 @@ a:hover {
   }
   .macbook-pro-14----3 {
     background: #000000;
-    width: 1326px;
-    height: 861.09px;
+    width: 1366px;
+    height: 887.62px;
     position: relative;
     overflow: hidden;
   }
@@ -1699,265 +2569,265 @@ a:hover {
     text-align: left;
     font: 700 36px/100% "Helvetica Neue", sans-serif;
     position: absolute;
-    left: 46px;
-    top: 485px;
+    left: 56px;
+    top: 505px;
     width: 291px;
     height: 45px;
   }
   .rectangle-25 {
     background: #fef9f3;
-    width: 1326px;
-    height: 441px;
+    width: 1366px;
+    height: 465px;
     position: absolute;
     left: 0px;
     top: 0px;
   }
   .iconly-bold-3-user {
-    width: 32.45px;
-    height: 31.57px;
+    width: 38.78px;
+    height: 37.83px;
     position: absolute;
-    left: 346px;
-    top: 491px;
+    left: 360px;
+    top: 509px;
   }
   ._3-user {
     position: absolute;
-    left: 1.35px;
-    top: 5.26px;
+    left: 1.62px;
+    top: 6.31px;
     overflow: visible;
   }
   .rectangle-44 {
     background: #2e2d2d;
     border-radius: 20px;
-    width: 170px;
-    height: 229px;
+    width: 176px;
+    height: 240px;
     position: absolute;
-    left: 53px;
-    top: 144px;
+    left: 51px;
+    top: 146px;
   }
   .rectangle-28 {
     background: #2e2d2d;
     border-radius: 20px;
-    width: 169px;
-    height: 229px;
+    width: 176px;
+    height: 240px;
     position: absolute;
-    left: 474px;
-    top: 144px;
+    left: 491px;
+    top: 146px;
   }
   .rectangle-29 {
     background: #2e2d2d;
     border-radius: 20px;
-    width: 169px;
-    height: 229px;
+    width: 176px;
+    height: 240px;
     position: absolute;
-    left: 684px;
-    top: 144px;
+    left: 704px;
+    top: 146px;
   }
   .rectangle-30 {
     background: #2e2d2d;
     border-radius: 20px;
-    width: 170px;
-    height: 229px;
+    width: 176px;
+    height: 240px;
     position: absolute;
-    left: 894px;
-    top: 144px;
+    left: 925px;
+    top: 146px;
   }
   .rectangle-31 {
     background: #2e2d2d;
     border-radius: 20px;
-    width: 170px;
-    height: 229px;
+    width: 176px;
+    height: 240px;
     position: absolute;
-    left: 1104px;
-    top: 144px;
+    left: 1143px;
+    top: 146px;
   }
   .rectangle-32 {
     background: #fef9f3;
     border-radius: 20px;
-    width: 170px;
-    height: 229px;
+    width: 176px;
+    height: 240px;
     position: absolute;
-    left: 51px;
-    top: 584px;
+    left: 49px;
+    top: 591px;
     box-shadow: 5px 10px 4px 0px rgba(0, 0, 0, 0.25);
   }
   .rectangle-33 {
     background: #fef9f3;
     border-radius: 20px;
-    width: 170px;
-    height: 229px;
+    width: 177px;
+    height: 240px;
     position: absolute;
-    left: 261px;
-    top: 584px;
+    left: 267px;
+    top: 591px;
     box-shadow: 5px 10px 4px 0px rgba(0, 0, 0, 0.25);
   }
   .rectangle-34 {
     background: #fef9f3;
     border-radius: 20px;
-    width: 170px;
-    height: 229px;
+    width: 176px;
+    height: 240px;
     position: absolute;
-    left: 472px;
-    top: 584px;
+    left: 487px;
+    top: 591px;
     box-shadow: 5px 10px 4px 0px rgba(0, 0, 0, 0.25);
   }
   .rectangle-35 {
     background: #fef9f3;
     border-radius: 20px;
-    width: 170px;
-    height: 229px;
+    width: 176px;
+    height: 240px;
     position: absolute;
-    left: 683px;
-    top: 584px;
+    left: 705px;
+    top: 591px;
     box-shadow: 5px 10px 4px 0px rgba(0, 0, 0, 0.25);
   }
   .rectangle-36 {
     background: #fef9f3;
     border-radius: 20px;
-    width: 170px;
-    height: 229px;
+    width: 177px;
+    height: 240px;
     position: absolute;
-    left: 893px;
-    top: 584px;
+    left: 923px;
+    top: 591px;
     box-shadow: 5px 10px 4px 0px rgba(0, 0, 0, 0.25);
   }
   .rectangle-37 {
     background: #fef9f3;
     border-radius: 20px;
-    width: 170px;
-    height: 229px;
+    width: 176px;
+    height: 240px;
     position: absolute;
-    left: 1104px;
-    top: 584px;
+    left: 1142px;
+    top: 591px;
     box-shadow: 5px 10px 4px 0px rgba(0, 0, 0, 0.25);
   }
   .rectangle-38 {
     background: #2e2d2d;
     border-radius: 20px 20px 0px 0px;
-    width: 170px;
-    height: 84px;
+    width: 176px;
+    height: 88px;
     position: absolute;
-    left: 51px;
-    top: 584px;
+    left: 49px;
+    top: 591px;
   }
   .rectangle-45 {
     background: #ffd747;
     border-radius: 20px 20px 0px 0px;
-    width: 170px;
-    height: 85px;
+    width: 176px;
+    height: 89px;
     position: absolute;
-    left: 53px;
-    top: 144px;
+    left: 51px;
+    top: 146px;
     transform-origin: 0 0;
     transform: rotate(0deg) scale(1, 1);
   }
   .rectangle-27 {
     background: #2e2d2d;
     border-radius: 20px;
-    width: 170px;
-    height: 229px;
+    width: 176px;
+    height: 240px;
     position: absolute;
-    left: 263px;
-    top: 144px;
+    left: 272px;
+    top: 146px;
   }
   .rectangle-46 {
     background: #ffd747;
     border-radius: 20px 20px 0px 0px;
-    width: 170px;
-    height: 85px;
+    width: 176px;
+    height: 89px;
     position: absolute;
-    left: 263px;
-    top: 144px;
+    left: 272px;
+    top: 146px;
     transform-origin: 0 0;
     transform: rotate(0deg) scale(1, 1);
   }
   .rectangle-47 {
     background: #ffd747;
     border-radius: 20px 20px 0px 0px;
-    width: 169px;
-    height: 85px;
+    width: 176px;
+    height: 89px;
     position: absolute;
-    left: 474px;
-    top: 144px;
+    left: 491px;
+    top: 146px;
     transform-origin: 0 0;
     transform: rotate(0deg) scale(1, 1);
   }
   .rectangle-48 {
     background: #ffd747;
     border-radius: 20px 20px 0px 0px;
-    width: 169px;
-    height: 85px;
+    width: 176px;
+    height: 89px;
     position: absolute;
-    left: 684px;
-    top: 144px;
+    left: 704px;
+    top: 146px;
     transform-origin: 0 0;
     transform: rotate(0deg) scale(1, 1);
   }
   .rectangle-49 {
     background: #ffd747;
     border-radius: 20px 20px 0px 0px;
-    width: 170px;
-    height: 85px;
+    width: 176px;
+    height: 89px;
     position: absolute;
-    left: 894px;
-    top: 144px;
+    left: 925px;
+    top: 146px;
     transform-origin: 0 0;
     transform: rotate(0deg) scale(1, 1);
   }
   .rectangle-50 {
     background: #ffd747;
     border-radius: 20px 20px 0px 0px;
-    width: 170px;
-    height: 85px;
+    width: 176px;
+    height: 89px;
     position: absolute;
-    left: 1104px;
-    top: 144px;
+    left: 1143px;
+    top: 146px;
     transform-origin: 0 0;
     transform: rotate(0deg) scale(1, 1);
   }
   .rectangle-39 {
     background: #2e2d2d;
     border-radius: 20px 20px 0px 0px;
-    width: 170px;
-    height: 84px;
+    width: 177px;
+    height: 88px;
     position: absolute;
-    left: 261px;
-    top: 584px;
+    left: 267px;
+    top: 591px;
   }
   .rectangle-40 {
     background: #2e2d2d;
     border-radius: 20px 20px 0px 0px;
-    width: 170px;
-    height: 84px;
+    width: 176px;
+    height: 88px;
     position: absolute;
-    left: 472px;
-    top: 584px;
+    left: 487px;
+    top: 591px;
   }
   .rectangle-41 {
     background: #2e2d2d;
     border-radius: 20px 20px 0px 0px;
-    width: 170px;
-    height: 84px;
+    width: 176px;
+    height: 88px;
     position: absolute;
-    left: 683px;
-    top: 584px;
+    left: 705px;
+    top: 591px;
   }
   .rectangle-42 {
     background: #2e2d2d;
     border-radius: 20px 20px 0px 0px;
-    width: 170px;
-    height: 84px;
+    width: 177px;
+    height: 88px;
     position: absolute;
-    left: 893px;
-    top: 584px;
+    left: 923px;
+    top: 591px;
   }
   .rectangle-43 {
     background: #2e2d2d;
     border-radius: 20px 20px 0px 0px;
-    width: 170px;
-    height: 84px;
+    width: 176px;
+    height: 88px;
     position: absolute;
-    left: 1104px;
-    top: 584px;
+    left: 1142px;
+    top: 591px;
   }
   .i-nostri-servizi- {
     color: #000000;
@@ -1972,194 +2842,193 @@ a:hover {
   .portierato-diurno-e-notturno {
     color: #ffffff;
     text-align: left;
-    font: 500 20px "Helvetica Neue", sans-serif;
+    font: 500 19px "Helvetica Neue", sans-serif;
     position: absolute;
-    left: 65px;
-    top: 251px;
-    width: 99px;
-    height: 77px;
+    left: 67px;
+    top: 245px;
+    width: 103px;
+    height: 81px;
   }
   .controllo-accessi {
     color: #ffffff;
     text-align: left;
-    font: 500 20px "Helvetica Neue", sans-serif;
+    font: 500 19px "Helvetica Neue", sans-serif;
     position: absolute;
-    left: 275px;
-    top: 251px;
-    width: 96px;
-    height: 52px;
+    left: 286px;
+    top: 245px;
+    width: 101px;
+    height: 53px;
   }
   .steward-per-eventi {
     color: #ffffff;
     text-align: left;
-    font: 500 20px "Helvetica Neue", sans-serif;
+    font: 500 19px "Helvetica Neue", sans-serif;
     position: absolute;
-    left: 489px;
-    top: 251px;
-    width: 124px;
-    height: 52px;
+    left: 509px;
+    top: 245px;
+    width: 131px;
+    height: 53px;
   }
   .servizi-di-prevenzione-covid-19 {
     color: #ffffff;
     text-align: left;
-    font: 500 20px "Helvetica Neue", sans-serif;
+    font: 500 19px "Helvetica Neue", sans-serif;
     position: absolute;
-    left: 701px;
-    top: 251px;
-    width: 126px;
-    height: 77px;
+    left: 720px;
+    top: 245px;
+    width: 133px;
+    height: 81px;
   }
   .hostess-e-servizi-eventi-privati {
     color: #ffffff;
     text-align: left;
-    font: 500 20px "Helvetica Neue", sans-serif;
+    font: 500 19px "Helvetica Neue", sans-serif;
     position: absolute;
-    left: 906px;
-    top: 251px;
-    width: 129px;
-    height: 77px;
+    left: 935px;
+    top: 245px;
+    width: 135px;
+    height: 81px;
   }
   .servizi-antiincendi {
     color: #ffffff;
     text-align: left;
-    font: 500 20px "Helvetica Neue", sans-serif;
+    font: 500 19px "Helvetica Neue", sans-serif;
     position: absolute;
-    left: 1115px;
-    top: 251px;
-    width: 108px;
-    height: 52px;
+    left: 1154px;
+    top: 245px;
+    width: 113px;
+    height: 53px;
   }
   .operatori-qualificati-primo-soccorso {
     text-align: left;
-    font: 500 20px/100% "Helvetica Neue", sans-serif;
+    font: 500 19px/100% "Helvetica Neue", sans-serif;
     position: absolute;
-    left: 63px;
-    top: 608px;
-    width: 147px;
-    height: 146px;
+    left: 62px;
+    top: 617px;
+    width: 136px;
+    height: 150px;
   }
   .operatori-qualificati-primo-soccorso-span {
     color: #ffffff;
-    font: 500 20px/100% "Helvetica Neue", sans-serif;
+    font: 500 19px/100% "Helvetica Neue", sans-serif;
   }
   .operatori-qualificati-primo-soccorso-span2 {
     color: #000000;
-    font: 500 20px/100% "Helvetica Neue", sans-serif;
+    font: 500 19px/100% "Helvetica Neue", sans-serif;
   }
   .operatori-qualificati-prevenzione-incendio-rischio-alto {
     text-align: left;
-    font: 500 20px/100% "Helvetica Neue", sans-serif;
+    font: 500 19px/100% "Helvetica Neue", sans-serif;
     position: absolute;
-    left: 274px;
-    top: 608px;
-    width: 151px;
-    height: 73px;
+    left: 281px;
+    top: 617px;
+    width: 128px;
+    height: 74px;
   }
   .operatori-qualificati-prevenzione-incendio-rischio-alto-span {
     color: #ffffff;
-    font: 500 20px/100% "Helvetica Neue", sans-serif;
+    font: 500 19px/100% "Helvetica Neue", sans-serif;
   }
   .operatori-qualificati-prevenzione-incendio-rischio-alto-span2 {
     color: #000000;
-    font: 500 20px/100% "Helvetica Neue", sans-serif;
+    font: 500 19px/100% "Helvetica Neue", sans-serif;
   }
   .operatori-qualificati-servizi-di-controllo-eventi {
     text-align: left;
-    font: 500 20px/100% "Helvetica Neue", sans-serif;
+    font: 500 19px/100% "Helvetica Neue", sans-serif;
     position: absolute;
-    left: 487px;
-    top: 608px;
-    width: 131px;
-    height: 73px;
+    left: 502px;
+    top: 617px;
+    width: 136px;
+    height: 74px;
   }
   .operatori-qualificati-servizi-di-controllo-eventi-span {
     color: #ffffff;
-    font: 500 20px/100% "Helvetica Neue", sans-serif;
+    font: 500 19px/100% "Helvetica Neue", sans-serif;
   }
   .operatori-qualificati-servizi-di-controllo-eventi-span2 {
     color: #000000;
-    font: 500 20px/100% "Helvetica Neue", sans-serif;
+    font: 500 19px/100% "Helvetica Neue", sans-serif;
   }
   .operatori-qualificati-addetti-area-tecnica {
     text-align: left;
-    font: 500 20px/100% "Helvetica Neue", sans-serif;
+    font: 500 19px/100% "Helvetica Neue", sans-serif;
     position: absolute;
-    left: 701px;
-    top: 608px;
-    width: 140px;
-    height: 96px;
+    left: 722px;
+    top: 617px;
+    width: 147px;
+    height: 99px;
   }
   .operatori-qualificati-addetti-area-tecnica-span {
     color: #ffffff;
-    font: 500 20px/100% "Helvetica Neue", sans-serif;
+    font: 500 19px/100% "Helvetica Neue", sans-serif;
   }
   .operatori-qualificati-addetti-area-tecnica-span2 {
     color: #000000;
-    font: 500 20px/100% "Helvetica Neue", sans-serif;
+    font: 500 19px/100% "Helvetica Neue", sans-serif;
   }
   .operatori-qualificati-bls---blsd {
     text-align: left;
-    font: 500 20px/100% "Helvetica Neue", sans-serif;
+    font: 500 19px/100% "Helvetica Neue", sans-serif;
     position: absolute;
-    left: 906px;
-    top: 608px;
-    width: 128px;
-    height: 107px;
+    left: 935px;
+    top: 617px;
+    width: 133px;
+    height: 109px;
   }
   .operatori-qualificati-bls---blsd-span {
     color: #ffffff;
-    font: 500 20px/100% "Helvetica Neue", sans-serif;
+    font: 500 19px/100% "Helvetica Neue", sans-serif;
   }
   .operatori-qualificati-bls---blsd-span2 {
     color: #000000;
-    font: 500 20px/100% "Helvetica Neue", sans-serif;
+    font: 500 19px/100% "Helvetica Neue", sans-serif;
   }
   .adetti-qualificati-safety--security-expert {
     text-align: left;
-    font: 500 20px/100% "Helvetica Neue", sans-serif;
+    font: 500 19px/100% "Helvetica Neue", sans-serif;
     position: absolute;
-    left: 1115px;
-    top: 608px;
-    width: 148px;
-    height: 171px;
+    left: 1157px;
+    top: 617px;
+    width: 138px;
+    height: 174px;
   }
   .adetti-qualificati-safety--security-expert-span {
     color: #ffffff;
-    font: 500 20px/100% "Helvetica Neue", sans-serif;
+    font: 500 19px/100% "Helvetica Neue", sans-serif;
   }
   .adetti-qualificati-safety--security-expert-span2 {
     color: #000000;
-    font: 500 20px/100% "Helvetica Neue", sans-serif;
+    font: 500 19px/100% "Helvetica Neue", sans-serif;
   }
   .iconly-bold-shield-done {
-    width: 39.46px;
-    height: 39.46px;
+    width: 47px;
+    height: 47px;
     position: absolute;
-    left: 313px;
-    top: 56px;
+    left: 315px;
+    top: 54px;
   }
   .shield-done {
     position: absolute;
-    left: 5.76px;
-    top: 3.29px;
+    left: 6.85px;
+    top: 3.92px;
     overflow: visible;
   }
-
   .macbook-pro-14----2,
   .macbook-pro-14----2 * {
     box-sizing: border-box;
   }
   .macbook-pro-14----2 {
     background: #000000;
-    width: 1326px;
-    height: 861.2px;
+    width: 1366px;
+    height: 887.62px;
     position: relative;
     overflow: hidden;
   }
   .rectangle-61 {
     background: #fef9f3;
-    width: 1326px;
-    height: 419.2px;
+    width: 1366px;
+    height: 432.06px;
     position: absolute;
     left: 0px;
     top: 0px;
@@ -2167,32 +3036,32 @@ a:hover {
   .rectangle-60 {
     background: #000000;
     border-radius: 40px;
-    width: 5.26px;
-    height: 211.35px;
+    width: 5.42px;
+    height: 217.84px;
     position: absolute;
-    left: 415.69px;
-    top: 162.24px;
+    left: 428.23px;
+    top: 167.22px;
   }
   .rectangle-62 {
     background: #000000;
     border-radius: 40px;
-    width: 5.26px;
-    height: 211.35px;
+    width: 5.42px;
+    height: 217.84px;
     position: absolute;
-    left: 897.15px;
-    top: 162.24px;
+    left: 924.22px;
+    top: 167.22px;
   }
   .iconly-bold-message {
-    width: 50.87px;
-    height: 50.87px;
+    width: 52.4px;
+    height: 52.43px;
     position: absolute;
-    left: 637.57px;
-    top: 293.79px;
+    left: 656.8px;
+    top: 302.8px;
   }
   .message {
     position: absolute;
-    left: 4.24px;
-    top: 6.36px;
+    left: 4.37px;
+    top: 6.55px;
     overflow: visible;
   }
   .come-trovarci {
@@ -2200,20 +3069,20 @@ a:hover {
     text-align: center;
     font: 700 32px "Helvetica Neue", sans-serif;
     position: absolute;
-    left: 547.24px;
-    top: 462.17px;
-    width: 231.52px;
-    height: 37.71px;
+    left: 563px;
+    top: 476px;
+    width: 240px;
+    height: 51px;
   }
   .recapiti-telefonici-3899258449-3283077246 {
     color: #000000;
     text-align: center;
     font: 400 0px "undefined", sans-serif;
     position: absolute;
-    left: 51.74px;
-    top: 177.15px;
-    width: 319.22px;
-    height: 181.54px;
+    left: 53.3px;
+    top: 182.59px;
+    width: 328.85px;
+    height: 187.1px;
   }
   .recapiti-telefonici-3899258449-3283077246-span {
     color: #000000;
@@ -2225,17 +3094,17 @@ a:hover {
   }
   .recapiti-telefonici-3899258449-3283077246-span3 {
     color: #000000;
-    font: 400 24px "Helvetica Neue", sans-serif;
+    font: 400 20px "Helvetica Neue", sans-serif;
   }
   .indirizzo-email-marsica-security21-gmail-com {
     color: #000000;
     text-align: center;
     font: 400 0px "undefined", sans-serif;
     position: absolute;
-    left: 477.96px;
-    top: 177.15px;
-    width: 369.21px;
-    height: 94.71px;
+    left: 492.37px;
+    top: 182.59px;
+    width: 380.35px;
+    height: 97.62px;
   }
   .indirizzo-email-marsica-security21-gmail-com-span {
     color: #000000;
@@ -2247,17 +3116,17 @@ a:hover {
   }
   .indirizzo-email-marsica-security21-gmail-com-span3 {
     color: #000000;
-    font: 400 24px "Helvetica Neue", sans-serif;
+    font: 400 20px "Helvetica Neue", sans-serif;
   }
   .lavora-con-noi-marsica-security21-gmail-com {
     color: #000000;
     text-align: center;
     font: 400 0px "undefined", sans-serif;
     position: absolute;
-    left: 936.62px;
-    top: 177.15px;
-    width: 369.21px;
-    height: 115.76px;
+    left: 964.87px;
+    top: 182.59px;
+    width: 380.35px;
+    height: 119.31px;
   }
   .lavora-con-noi-marsica-security21-gmail-com-span {
     color: #000000;
@@ -2265,17 +3134,17 @@ a:hover {
   }
   .lavora-con-noi-marsica-security21-gmail-com-span2 {
     color: #000000;
-    font: 400 24px "Helvetica Neue", sans-serif;
+    font: 400 20px "Helvetica Neue", sans-serif;
   }
   .indirizzo-via-enea-merolli--n-94-celano--aq- {
     color: #ffffff;
     text-align: left;
     font: 400 0px "undefined", sans-serif;
     position: absolute;
-    left: 303.44px;
-    top: 599.86px;
-    width: 359.56px;
-    height: 93.84px;
+    left: 312.17px;
+    top: 617.94px;
+    width: 238.49px;
+    height: 97.01px;
   }
   .indirizzo-via-enea-merolli--n-94-celano--aq--span {
     color: #ffffff;
@@ -2283,86 +3152,86 @@ a:hover {
   }
   .indirizzo-via-enea-merolli--n-94-celano--aq--span2 {
     color: #ffffff;
-    font: 400 24px "Helvetica Neue", sans-serif;
+    font: 400 20px "Helvetica Neue", sans-serif;
   }
   .indirizzo-via-enea-merolli--n-94-celano--aq--span3 {
     color: #ffffff;
-    font: 500 24px "Helvetica Neue", sans-serif;
+    font: 500 20px "Helvetica Neue", sans-serif;
   }
   .marsica-security2 {
     color: #000000;
     text-align: center;
     font: 700 32px "Helvetica Neue", sans-serif;
     position: absolute;
-    left: 534.08px;
-    top: 21.92px;
-    width: 257.83px;
-    height: 38.59px;
+    left: 550.19px;
+    top: 22.6px;
+    width: 265.61px;
+    height: 39.77px;
   }
   .iconly-bold-call {
-    width: 32.45px;
-    height: 32.45px;
+    width: 33.43px;
+    height: 33.44px;
     position: absolute;
-    left: 88.58px;
-    top: 239.42px;
+    left: 91.25px;
+    top: 246.76px;
   }
   .call {
     position: absolute;
-    left: 3.38px;
-    top: 3.38px;
+    left: 3.48px;
+    top: 3.48px;
     overflow: visible;
   }
   .iconly-bold-call2 {
-    width: 32.45px;
-    height: 32.45px;
+    width: 33.43px;
+    height: 33.44px;
     position: absolute;
-    left: 92.08px;
-    top: 298.17px;
+    left: 94.86px;
+    top: 307.32px;
   }
   .call2 {
     position: absolute;
-    left: 3.38px;
-    top: 3.38px;
+    left: 3.48px;
+    top: 3.48px;
     overflow: visible;
   }
   .iconly-bold-location {
-    width: 43.85px;
-    height: 43.85px;
+    width: 45.17px;
+    height: 45.19px;
     position: absolute;
-    left: 210.48px;
-    top: 677.03px;
+    left: 230.74px;
+    top: 692.63px;
   }
   .location {
     position: absolute;
-    left: 6.39px;
-    top: 3.65px;
+    left: 6.59px;
+    top: 3.77px;
     overflow: visible;
   }
   .per-domande-o-richieste-di-collaborazione-contattaci-direttamente-con-i-recapiti-qui-sotto-elencati- {
     color: #000000;
     text-align: center;
-    font: 400 16px "Helvetica Neue", sans-serif;
+    font: 400 20px "Helvetica Neue", sans-serif;
     position: absolute;
-    left: 316.59px;
-    top: 82.44px;
-    width: 691.94px;
-    height: 42.1px;
+    left: 326.14px;
+    top: 84.97px;
+    width: 712.81px;
+    height: 43.39px;
   }
   .iconly-bold-work {
-    width: 47.36px;
-    height: 47.36px;
+    width: 48.79px;
+    height: 48.81px;
     position: absolute;
-    left: 1105px;
-    top: 293.79px;
+    left: 1138.33px;
+    top: 302.8px;
   }
   .work {
     position: absolute;
-    left: 3.95px;
-    top: 3.95px;
+    left: 4.07px;
+    top: 4.07px;
     overflow: visible;
   }
 }
-@media screen and (max-width: 1205px) and (min-width: 601px) {
+@media screen and (max-width: 1280px) and (min-width: 601px) {
   .macbook-pro-14----4,
   .macbook-pro-14----4 * {
     box-sizing: border-box;
@@ -3146,6 +4015,7 @@ a:hover {
     overflow: visible;
   }
 }
+/*Mobile*/
 @media screen and (max-width: 600px) {
   .macbook-pro-14----4,
   .macbook-pro-14----4 * {
@@ -3248,7 +4118,7 @@ a:hover {
     text-align: left;
     font: 700 48px/100% "Helvetica Neue", sans-serif;
     position: absolute;
-    left: 91px;
+    left: 63px;
     top: 85px;
     width: 338px;
     height: 51px;
@@ -3434,11 +4304,11 @@ a:hover {
     height: 64.23px;
   }
   .iconly-bold-shield-done {
-    width: 59px;
-    height: 59px;
+    width: 68.82px;
+    height: 68.82px;
     position: absolute;
-    left: 438px;
-    top: 74px;
+    left: 408px;
+    top: 76px;
   }
   .shield-done {
     position: absolute;
@@ -3917,5 +4787,102 @@ a:hover {
     width: 400px;
     height: 250px;
     border-radius: 20px;
+  }
+  .macbook-pro-14----5,
+  .macbook-pro-14----5 * {
+    box-sizing: border-box;
+  }
+  .macbook-pro-14----5 {
+    background: #fef9f3;
+    width: 601px;
+    height: 651px;
+    position: relative;
+    overflow: hidden;
+    display: flex;
+    padding: 0 35px;
+    min-height: 80vh;
+    align-items: center;
+    justify-content: center;
+  }
+  .foto {
+    color: #000000;
+    text-align: center;
+    font: 700 40px "Helvetica Neue", sans-serif;
+    position: absolute;
+    left: 219px;
+    top: 49px;
+    width: 96px;
+    height: 43px;
+  }
+  .iconly-bold-image-2 {
+    width: 50px;
+    height: 50px;
+    position: absolute;
+    left: 332px;
+    top: 49px;
+  }
+  .image-2 {
+    position: absolute;
+    left: 4.17px;
+    top: 4.17px;
+    overflow: visible;
+  }
+  .wrapper {
+    display: flex;
+    top: 7%;
+    max-width: 601px;
+    position: relative;
+  }
+  .wrapper i {
+    top: 50%;
+    height: 44px;
+    width: 44px;
+    color: #343f4f;
+    cursor: pointer;
+    font-size: 1.15rem;
+    position: absolute;
+    text-align: center;
+    line-height: 44px;
+    background: #ffd747;
+    border-radius: 50%;
+    transform: translateY(-50%);
+    transition: transform 0.1s linear;
+  }
+  .wrapper i:active {
+    transform: translateY(-50%) scale(0.9);
+  }
+  /*.wrapper i:hover {
+  }*/
+  .wrapper i:first-child {
+    left: -22px;
+    display: none;
+  }
+  .wrapper i:last-child {
+    right: -22px;
+  }
+  .wrapper .carousel {
+    font-size: 0px;
+    cursor: pointer;
+    overflow: hidden;
+    white-space: nowrap;
+    scroll-behavior: smooth;
+  }
+  .carousel.dragging {
+    cursor: grab;
+    scroll-behavior: auto;
+  }
+  .carousel.dragging img {
+    pointer-events: none;
+  }
+  .carousel img {
+    height: 400px;
+    object-fit: cover;
+    border-radius: 10px;
+    user-select: none;
+    margin-left: 14px;
+    width: calc(100% / 2);
+  }
+  .carousel img:first-child {
+    margin-left: 0px;
   }
 }
