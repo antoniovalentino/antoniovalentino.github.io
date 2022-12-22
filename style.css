@@ -46,8 +46,10 @@ a:hover {
   }
   .chevron-down-24 {
     position: absolute;
-    left: 109.01px;
-    top: 712.68px;
+    left: 117px;
+    top: 725px;
+    width: 46px;
+    height: 46px;
     transform: translate(0px, 0px);
     overflow: visible;
   }
@@ -579,6 +581,16 @@ a:hover {
     position: relative;
     overflow: hidden;
   }
+  .mappa {
+    position: absolute;
+    left: 1100px;
+    top: 790px;
+  }
+  .mappa1 {
+    width: 700px;
+    height: 350px;
+    border-radius: 40px;
+  }
   .rectangle-61 {
     background: #fef9f3;
     width: 1920px;
@@ -688,6 +700,10 @@ a:hover {
   }
   .lavora-con-noi-marsica-security21-gmail-com-span2 {
     color: #000000;
+    font: 700 32px "Helvetica Neue", sans-serif;
+  }
+  .lavora-con-noi-marsica-security21-gmail-com-span3 {
+    color: #000000;
     font: 400 32px "Helvetica Neue", sans-serif;
   }
   .indirizzo-via-enea-merolli--n-94-celano--aq- {
@@ -783,6 +799,102 @@ a:hover {
     left: 5.71px;
     top: 5.72px;
     overflow: visible;
+  }
+  .macbook-pro-14----5,
+  .macbook-pro-14----5 * {
+    box-sizing: border-box;
+  }
+  .macbook-pro-14----5 {
+    background: #fef9f3;
+    width: 1920px;
+    height: 623px;
+    position: relative;
+    overflow: hidden;
+    display: flex;
+    padding: 0 35px;
+    min-height: 90vh;
+    align-items: center;
+    justify-content: center;
+  }
+  .foto {
+    color: #000000;
+    text-align: center;
+    font: 700 40px "Helvetica Neue", sans-serif;
+    position: absolute;
+    left: 870px;
+    top: 40px;
+    width: 97px;
+    height: 41px;
+  }
+  .iconly-bold-image-2 {
+    width: 43.31px;
+    height: 43.31px;
+    position: absolute;
+    left: 980px;
+    top: 37.44px;
+  }
+  .image-2 {
+    position: absolute;
+    left: 3.61px;
+    top: 3.61px;
+    overflow: visible;
+  }
+  .wrapper {
+    display: flex;
+    max-width: 1920px;
+    position: relative;
+  }
+  .wrapper i {
+    top: 50%;
+    height: 44px;
+    width: 44px;
+    color: #343f4f;
+    cursor: pointer;
+    font-size: 1.15rem;
+    position: absolute;
+    text-align: center;
+    line-height: 44px;
+    background: #ffd747;
+    border-radius: 50%;
+    transform: translateY(-50%);
+    transition: transform 0.1s linear;
+  }
+  .wrapper i:active {
+    transform: translateY(-50%) scale(0.9);
+  }
+  /*.wrapper i:hover {
+  }*/
+  .wrapper i:first-child {
+    left: -22px;
+    display: none;
+  }
+  .wrapper i:last-child {
+    right: -22px;
+  }
+  .wrapper .carousel {
+    font-size: 0px;
+    cursor: pointer;
+    overflow: hidden;
+    white-space: nowrap;
+    scroll-behavior: smooth;
+  }
+  .carousel.dragging {
+    cursor: grab;
+    scroll-behavior: auto;
+  }
+  .carousel.dragging img {
+    pointer-events: none;
+  }
+  .carousel img {
+    height: 500px;
+    border-radius: 10px;
+    object-fit: cover;
+    user-select: none;
+    margin-left: 14px;
+    width: calc(100% / 3);
+  }
+  .carousel img:first-child {
+    margin-left: 0px;
   }
 }
 @media screen and (max-width: 1919px) and (min-width: 1410px) {
@@ -1355,7 +1467,7 @@ a:hover {
   .mappa {
     position: absolute;
     left: 800px;
-    top: 600px;
+    top: 620px;
   }
   .mappa1 {
     width: 600px;
@@ -1467,9 +1579,13 @@ a:hover {
   }
   .lavora-con-noi-marsica-security21-gmail-com-span {
     color: #000000;
-    font: 700 32px "Helvetica Neue", sans-serif;
+    font: 700 30px "Helvetica Neue", sans-serif;
   }
   .lavora-con-noi-marsica-security21-gmail-com-span2 {
+    color: #000000;
+    font: 700 32px "Helvetica Neue", sans-serif;
+  }
+  .lavora-con-noi-marsica-security21-gmail-com-span3 {
     color: #000000;
     font: 400 28px "Helvetica Neue", sans-serif;
   }
@@ -1556,7 +1672,7 @@ a:hover {
     height: 54px;
     position: absolute;
     left: 1260px;
-    top: 335px;
+    top: 340px;
   }
   .work {
     position: absolute;
@@ -1578,7 +1694,7 @@ a:hover {
     overflow: hidden;
     display: flex;
     padding: 0 35px;
-    min-height: 80vh;
+    min-height: 90vh;
     align-items: center;
     justify-content: center;
   }
@@ -1652,7 +1768,8 @@ a:hover {
     pointer-events: none;
   }
   .carousel img {
-    height: 380px;
+    height: 400px;
+    border-radius: 10px;
     object-fit: cover;
     user-select: none;
     margin-left: 14px;
@@ -1698,7 +1815,9 @@ a:hover {
   .chevron-down-24 {
     position: absolute;
     left: 80px;
-    top: 523px;
+    top: 525px;
+    width: 46px;
+    height: 46px;
     transform: translate(0px, 0px);
     overflow: visible;
   }
@@ -2240,6 +2359,16 @@ a:hover {
     position: relative;
     overflow: hidden;
   }
+  .mappa {
+    position: absolute;
+    left: 700px;
+    top: 560px;
+  }
+  .mappa1 {
+    width: 600px;
+    height: 290px;
+    border-radius: 40px;
+  }
   .rectangle-61 {
     background: #fef9f3;
     width: 1409px;
@@ -2349,6 +2478,10 @@ a:hover {
   }
   .lavora-con-noi-marsica-security21-gmail-com-span2 {
     color: #000000;
+    font: 700 26px "Helvetica Neue", sans-serif;
+  }
+  .lavora-con-noi-marsica-security21-gmail-com-span3 {
+    color: #000000;
     font: 400 24px "Helvetica Neue", sans-serif;
   }
   .indirizzo-via-enea-merolli--n-94-celano--aq- {
@@ -2445,6 +2578,102 @@ a:hover {
     top: 4.19px;
     overflow: visible;
   }
+  .macbook-pro-14----5,
+  .macbook-pro-14----5 * {
+    box-sizing: border-box;
+  }
+  .macbook-pro-14----5 {
+    background: #fef9f3;
+    width: 1409px;
+    height: 623px;
+    position: relative;
+    overflow: hidden;
+    display: flex;
+    padding: 0 35px;
+    min-height: 90vh;
+    align-items: center;
+    justify-content: center;
+  }
+  .foto {
+    color: #000000;
+    text-align: center;
+    font: 700 40px "Helvetica Neue", sans-serif;
+    position: absolute;
+    left: 635px;
+    top: 37px;
+    width: 97px;
+    height: 41px;
+  }
+  .iconly-bold-image-2 {
+    width: 43.31px;
+    height: 43.31px;
+    position: absolute;
+    left: 737px;
+    top: 37.44px;
+  }
+  .image-2 {
+    position: absolute;
+    left: 3.61px;
+    top: 3.61px;
+    overflow: visible;
+  }
+  .wrapper {
+    display: flex;
+    max-width: 1512px;
+    position: relative;
+  }
+  .wrapper i {
+    top: 50%;
+    height: 44px;
+    width: 44px;
+    color: #343f4f;
+    cursor: pointer;
+    font-size: 1.15rem;
+    position: absolute;
+    text-align: center;
+    line-height: 44px;
+    background: #ffd747;
+    border-radius: 50%;
+    transform: translateY(-50%);
+    transition: transform 0.1s linear;
+  }
+  .wrapper i:active {
+    transform: translateY(-50%) scale(0.9);
+  }
+  /*.wrapper i:hover {
+  }*/
+  .wrapper i:first-child {
+    left: -22px;
+    display: none;
+  }
+  .wrapper i:last-child {
+    right: -22px;
+  }
+  .wrapper .carousel {
+    font-size: 0px;
+    cursor: pointer;
+    overflow: hidden;
+    white-space: nowrap;
+    scroll-behavior: smooth;
+  }
+  .carousel.dragging {
+    cursor: grab;
+    scroll-behavior: auto;
+  }
+  .carousel.dragging img {
+    pointer-events: none;
+  }
+  .carousel img {
+    height: 400px;
+    border-radius: 10px;
+    object-fit: cover;
+    user-select: none;
+    margin-left: 14px;
+    width: calc(100% / 3);
+  }
+  .carousel img:first-child {
+    margin-left: 0px;
+  }
 }
 /*Desktop*/
 @media screen and (max-width: 1366px) and (min-width: 1281px) {
@@ -2483,7 +2712,9 @@ a:hover {
   .chevron-down-24 {
     position: absolute;
     left: 77.56px;
-    top: 507.04px;
+    top: 509px;
+    width: 46px;
+    height: 46px;
     transform: translate(0px, 0px);
     overflow: visible;
   }
@@ -3025,6 +3256,16 @@ a:hover {
     position: relative;
     overflow: hidden;
   }
+  .mappa {
+    position: absolute;
+    left: 700px;
+    top: 560px;
+  }
+  .mappa1 {
+    width: 600px;
+    height: 260px;
+    border-radius: 40px;
+  }
   .rectangle-61 {
     background: #fef9f3;
     width: 1366px;
@@ -3134,6 +3375,10 @@ a:hover {
   }
   .lavora-con-noi-marsica-security21-gmail-com-span2 {
     color: #000000;
+    font: 700 24px "Helvetica Neue", sans-serif;
+  }
+  .lavora-con-noi-marsica-security21-gmail-com-span3 {
+    color: #000000;
     font: 400 20px "Helvetica Neue", sans-serif;
   }
   .indirizzo-via-enea-merolli--n-94-celano--aq- {
@@ -3230,6 +3475,102 @@ a:hover {
     top: 4.07px;
     overflow: visible;
   }
+  .macbook-pro-14----5,
+  .macbook-pro-14----5 * {
+    box-sizing: border-box;
+  }
+  .macbook-pro-14----5 {
+    background: #fef9f3;
+    width: 1366px;
+    height: 623px;
+    position: relative;
+    overflow: hidden;
+    display: flex;
+    padding: 0 35px;
+    min-height: 90vh;
+    align-items: center;
+    justify-content: center;
+  }
+  .foto {
+    color: #000000;
+    text-align: center;
+    font: 700 35px "Helvetica Neue", sans-serif;
+    position: absolute;
+    left: 615px;
+    top: 37px;
+    width: 97px;
+    height: 41px;
+  }
+  .iconly-bold-image-2 {
+    width: 43.31px;
+    height: 43.31px;
+    position: absolute;
+    left: 717px;
+    top: 37.44px;
+  }
+  .image-2 {
+    position: absolute;
+    left: 3.61px;
+    top: 3.61px;
+    overflow: visible;
+  }
+  .wrapper {
+    display: flex;
+    max-width: 1512px;
+    position: relative;
+  }
+  .wrapper i {
+    top: 50%;
+    height: 44px;
+    width: 44px;
+    color: #343f4f;
+    cursor: pointer;
+    font-size: 1.15rem;
+    position: absolute;
+    text-align: center;
+    line-height: 44px;
+    background: #ffd747;
+    border-radius: 50%;
+    transform: translateY(-50%);
+    transition: transform 0.1s linear;
+  }
+  .wrapper i:active {
+    transform: translateY(-50%) scale(0.9);
+  }
+  /*.wrapper i:hover {
+  }*/
+  .wrapper i:first-child {
+    left: -22px;
+    display: none;
+  }
+  .wrapper i:last-child {
+    right: -22px;
+  }
+  .wrapper .carousel {
+    font-size: 0px;
+    cursor: pointer;
+    overflow: hidden;
+    white-space: nowrap;
+    scroll-behavior: smooth;
+  }
+  .carousel.dragging {
+    cursor: grab;
+    scroll-behavior: auto;
+  }
+  .carousel.dragging img {
+    pointer-events: none;
+  }
+  .carousel img {
+    height: 400px;
+    border-radius: 10px;
+    object-fit: cover;
+    user-select: none;
+    margin-left: 14px;
+    width: calc(100% / 3);
+  }
+  .carousel img:first-child {
+    margin-left: 0px;
+  }
 }
 @media screen and (max-width: 1280px) and (min-width: 601px) {
   .macbook-pro-14----4,
@@ -3266,8 +3607,10 @@ a:hover {
   }
   .chevron-down-24 {
     position: absolute;
-    left: 68.42px;
-    top: 447.28px;
+    left: 67px;
+    top: 447px;
+    width: 46px;
+    height: 46px;
     transform: translate(0px, 0px);
     overflow: visible;
   }
@@ -3809,6 +4152,16 @@ a:hover {
     position: relative;
     overflow: hidden;
   }
+  .mappa {
+    position: absolute;
+    left: 700px;
+    top: 500px;
+  }
+  .mappa1 {
+    width: 400px;
+    height: 200px;
+    border-radius: 40px;
+  }
   .rectangle-61 {
     background: #fef9f3;
     width: 1205px;
@@ -3853,7 +4206,7 @@ a:hover {
     text-align: center;
     font: 700 29px "Helvetica Neue", sans-serif;
     position: absolute;
-    left: 497px;
+    left: 507px;
     top: 420px;
     width: 211px;
     height: 79px;
@@ -3917,6 +4270,10 @@ a:hover {
     font: 700 24px "Helvetica Neue", sans-serif;
   }
   .lavora-con-noi-marsica-security21-gmail-com-span2 {
+    color: #000000;
+    font: 700 30px "Helvetica Neue", sans-serif;
+  }
+  .lavora-con-noi-marsica-security21-gmail-com-span3 {
     color: #000000;
     font: 400 20px "Helvetica Neue", sans-serif;
   }
@@ -3983,7 +4340,7 @@ a:hover {
     height: 39.87px;
     position: absolute;
     left: 203.54px;
-    top: 611px;
+    top: 601px;
   }
   .location {
     position: absolute;
@@ -4013,6 +4370,102 @@ a:hover {
     left: 3.59px;
     top: 3.59px;
     overflow: visible;
+  }
+  .macbook-pro-14----5,
+  .macbook-pro-14----5 * {
+    box-sizing: border-box;
+  }
+  .macbook-pro-14----5 {
+    background: #fef9f3;
+    width: 1205px;
+    height: 623px;
+    position: relative;
+    overflow: hidden;
+    display: flex;
+    padding: 0 35px;
+    min-height: 90vh;
+    align-items: center;
+    justify-content: center;
+  }
+  .foto {
+    color: #000000;
+    text-align: center;
+    font: 700 35px "Helvetica Neue", sans-serif;
+    position: absolute;
+    left: 545px;
+    top: 37px;
+    width: 97px;
+    height: 41px;
+  }
+  .iconly-bold-image-2 {
+    width: 43.31px;
+    height: 43.31px;
+    position: absolute;
+    left: 647px;
+    top: 35.44px;
+  }
+  .image-2 {
+    position: absolute;
+    left: 3.61px;
+    top: 3.61px;
+    overflow: visible;
+  }
+  .wrapper {
+    display: flex;
+    max-width: 1512px;
+    position: relative;
+  }
+  .wrapper i {
+    top: 50%;
+    height: 44px;
+    width: 44px;
+    color: #343f4f;
+    cursor: pointer;
+    font-size: 1.15rem;
+    position: absolute;
+    text-align: center;
+    line-height: 44px;
+    background: #ffd747;
+    border-radius: 50%;
+    transform: translateY(-50%);
+    transition: transform 0.1s linear;
+  }
+  .wrapper i:active {
+    transform: translateY(-50%) scale(0.9);
+  }
+  /*.wrapper i:hover {
+  }*/
+  .wrapper i:first-child {
+    left: -22px;
+    display: none;
+  }
+  .wrapper i:last-child {
+    right: -22px;
+  }
+  .wrapper .carousel {
+    font-size: 0px;
+    cursor: pointer;
+    overflow: hidden;
+    white-space: nowrap;
+    scroll-behavior: smooth;
+  }
+  .carousel.dragging {
+    cursor: grab;
+    scroll-behavior: auto;
+  }
+  .carousel.dragging img {
+    pointer-events: none;
+  }
+  .carousel img {
+    height: 400px;
+    border-radius: 10px;
+    object-fit: cover;
+    user-select: none;
+    margin-left: 14px;
+    width: calc(100% / 3);
+  }
+  .carousel img:first-child {
+    margin-left: 0px;
   }
 }
 /*Mobile*/
@@ -4304,8 +4757,8 @@ a:hover {
     height: 64.23px;
   }
   .iconly-bold-shield-done {
-    width: 68.82px;
-    height: 68.82px;
+    width: 60px;
+    height: 60px;
     position: absolute;
     left: 408px;
     top: 76px;
@@ -4547,12 +5000,12 @@ a:hover {
     height: 64px;
     position: absolute;
     left: 459px;
-    top: 1400px;
+    top: 1402px;
   }
   ._3-user {
     position: absolute;
-    left: 2.87px;
-    top: 11.47px;
+    left: 2.67px;
+    top: 10.67px;
     overflow: visible;
   }
 
@@ -4615,8 +5068,8 @@ a:hover {
     text-align: center;
     font: 700 48px "Helvetica Neue", sans-serif;
     position: absolute;
-    left: 125px;
-    top: 938px;
+    left: 124px;
+    top: 902px;
     width: 352px;
     height: 66px;
   }
@@ -4669,16 +5122,20 @@ a:hover {
     text-align: center;
     font: 400 0px "undefined", sans-serif;
     position: absolute;
-    left: 79px;
-    top: 659px;
-    width: 444px;
-    height: 117px;
+    left: 151px;
+    top: 651px;
+    width: 299px;
+    height: 96px;
   }
   .lavora-con-noi-marsica-security21-gmail-com-span {
     color: #000000;
     font: 700 32px "Helvetica Neue", sans-serif;
   }
   .lavora-con-noi-marsica-security21-gmail-com-span2 {
+    color: #000000;
+    font: 700 20px "Helvetica Neue", sans-serif;
+  }
+  .lavora-con-noi-marsica-security21-gmail-com-span3 {
     color: #000000;
     font: 400 20px "Helvetica Neue", sans-serif;
   }
@@ -4687,8 +5144,8 @@ a:hover {
     text-align: center;
     font: 400 0px "undefined", sans-serif;
     position: absolute;
-    left: 221px;
-    top: 1056px;
+    left: 220px;
+    top: 1048px;
     width: 160px;
     height: 125px;
   }
@@ -4745,7 +5202,7 @@ a:hover {
     height: 33.64px;
     position: absolute;
     left: 161px;
-    top: 1141px;
+    top: 1131px;
   }
   .location {
     position: absolute;
@@ -4768,7 +5225,7 @@ a:hover {
     height: 35px;
     position: absolute;
     left: 283px;
-    top: 776px;
+    top: 760px;
   }
   .work {
     position: absolute;
