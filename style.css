@@ -4620,30 +4620,30 @@ a:hover {
   .rectangle-19 {
     background: #ffffff;
     border-radius: 30px;
-    width: 118.46px;
-    height: 70.35px;
+    width: 108px;
+    height: 60px;
     position: absolute;
     left: 50px;
-    top: 750px;
+    top: 700px;
   }
   .chevron-down-24 {
     position: absolute;
-    left: 78px;
-    top: 755px;
-    width: 62px;
-    height: 62px;
+    left: 75px;
+    top: 703px;
+    width: 58px;
+    height: 58px;
     transform: translate(0px, 0px);
     overflow: visible;
   }
   .azienda-nel-settore-dal-2004--se-vuoi-scoprire-di-pi--premi {
     color: #ffffff;
     text-align: left;
-    font: 700 48px/100% "Helvetica Neue", sans-serif;
+    font: 700 36px/100% "Helvetica Neue", sans-serif;
     position: absolute;
     left: 48.94px;
     top: 388.45px;
-    width: 365.49px;
-    height: 244.69px;
+    width: 330px;
+    height: 260px;
   }
   .chi-siamo {
     visibility: hidden;
