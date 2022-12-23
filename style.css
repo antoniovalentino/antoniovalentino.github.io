@@ -1467,17 +1467,17 @@ a:hover {
   .mappa {
     position: absolute;
     left: 800px;
-    top: 620px;
+    top: 640px;
   }
   .mappa1 {
     width: 600px;
-    height: 300px;
+    height: 280px;
     border-radius: 40px;
   }
   .rectangle-61 {
     background: #fef9f3;
     width: 1512px;
-    height: 478px;
+    height: 540px;
     position: absolute;
     left: 0px;
     top: 0px;
@@ -1519,7 +1519,7 @@ a:hover {
     font: 700 36px "Helvetica Neue", sans-serif;
     position: absolute;
     left: 624px;
-    top: 527px;
+    top: 565px;
     width: 264px;
     height: 43px;
   }
@@ -1680,6 +1680,38 @@ a:hover {
     top: 4.5px;
     width: 46px;
     height: 46px;
+    overflow: visible;
+  }
+  .marsica-securityfb {
+    color: #000000;
+    text-align: center;
+    font: 400 24px "Helvetica Neue", sans-serif;
+    position: absolute;
+    left: 524.47px;
+    top: 476.44px;
+    width: 188.21px;
+    height: 29.92px;
+  }
+  .marsica_securityig {
+    color: #000000;
+    text-align: center;
+    font: 400 24px "Helvetica Neue", sans-serif;
+    position: absolute;
+    left: 844.2px;
+    top: 476.44px;
+    width: 189.79px;
+    height: 29.92px;
+  }
+  .u-instagram-alt {
+    position: absolute;
+    left: 785.14px;
+    top: 464.62px;
+    overflow: visible;
+  }
+  .u-facebook-f {
+    position: absolute;
+    left: 473.29px;
+    top: 463.05px;
     overflow: visible;
   }
   .macbook-pro-14----5,
@@ -2362,17 +2394,17 @@ a:hover {
   .mappa {
     position: absolute;
     left: 700px;
-    top: 560px;
+    top: 600px;
   }
   .mappa1 {
     width: 600px;
-    height: 290px;
+    height: 250px;
     border-radius: 40px;
   }
   .rectangle-61 {
     background: #fef9f3;
     width: 1409px;
-    height: 445.39px;
+    height: 502px;
     position: absolute;
     left: 0px;
     top: 0px;
@@ -2414,7 +2446,7 @@ a:hover {
     font: 700 34px "Helvetica Neue", sans-serif;
     position: absolute;
     left: 581.49px;
-    top: 491.04px;
+    top: 520px;
     width: 246.02px;
     height: 40.07px;
   }
@@ -2576,6 +2608,38 @@ a:hover {
     position: absolute;
     left: 4.19px;
     top: 4.19px;
+    overflow: visible;
+  }
+  .marsica-securityfb {
+    color: #000000;
+    text-align: center;
+    font: 400 20px "Helvetica Neue", sans-serif;
+    position: absolute;
+    left: 488.75px;
+    top: 443.98px;
+    width: 175.39px;
+    height: 27.89px;
+  }
+  .marsica_securityig {
+    color: #000000;
+    text-align: center;
+    font: 400 20px "Helvetica Neue", sans-serif;
+    position: absolute;
+    left: 786.69px;
+    top: 443.98px;
+    width: 176.86px;
+    height: 27.89px;
+  }
+  .u-instagram-alt {
+    position: absolute;
+    left: 731.65px;
+    top: 432.97px;
+    overflow: visible;
+  }
+  .u-facebook-f {
+    position: absolute;
+    left: 441.05px;
+    top: 431.51px;
     overflow: visible;
   }
   .macbook-pro-14----5,
@@ -3259,17 +3323,17 @@ a:hover {
   .mappa {
     position: absolute;
     left: 700px;
-    top: 560px;
+    top: 580px;
   }
   .mappa1 {
     width: 600px;
-    height: 260px;
+    height: 230px;
     border-radius: 40px;
   }
   .rectangle-61 {
     background: #fef9f3;
     width: 1366px;
-    height: 432.06px;
+    height: 487.5px;
     position: absolute;
     left: 0px;
     top: 0px;
@@ -3310,8 +3374,8 @@ a:hover {
     text-align: center;
     font: 700 32px "Helvetica Neue", sans-serif;
     position: absolute;
-    left: 563px;
-    top: 476px;
+    left: 573px;
+    top: 510px;
     width: 240px;
     height: 51px;
   }
@@ -3387,7 +3451,7 @@ a:hover {
     font: 400 0px "undefined", sans-serif;
     position: absolute;
     left: 312.17px;
-    top: 617.94px;
+    top: 640px;
     width: 238.49px;
     height: 97.01px;
   }
@@ -3473,6 +3537,38 @@ a:hover {
     position: absolute;
     left: 4.07px;
     top: 4.07px;
+    overflow: visible;
+  }
+  .marsica-securityfb {
+    color: #000000;
+    text-align: center;
+    font: 400 20px "Helvetica Neue", sans-serif;
+    position: absolute;
+    left: 473.83px;
+    top: 430.43px;
+    width: 170.04px;
+    height: 27.04px;
+  }
+  .marsica_securityig {
+    color: #000000;
+    text-align: center;
+    font: 400 20px "Helvetica Neue", sans-serif;
+    position: absolute;
+    left: 762.68px;
+    top: 430.43px;
+    width: 171.46px;
+    height: 27.04px;
+  }
+  .u-instagram-alt {
+    position: absolute;
+    left: 709.32px;
+    top: 419.76px;
+    overflow: visible;
+  }
+  .u-facebook-f {
+    position: absolute;
+    left: 427.59px;
+    top: 418.34px;
     overflow: visible;
   }
   .macbook-pro-14----5,
@@ -4753,7 +4849,7 @@ a:hover {
     position: absolute;
     left: 339.8px;
     top: 1056.15px;
-    width: 136.1px;
+    width: 189.1px;
     height: 64.23px;
   }
   .iconly-bold-shield-done {
@@ -5023,7 +5119,7 @@ a:hover {
   .rectangle-61 {
     background: #fef9f3;
     width: 601px;
-    height: 852px;
+    height: 928px;
     position: absolute;
     left: 0px;
     top: 0px;
@@ -5069,7 +5165,7 @@ a:hover {
     font: 700 48px "Helvetica Neue", sans-serif;
     position: absolute;
     left: 124px;
-    top: 902px;
+    top: 960px;
     width: 352px;
     height: 66px;
   }
@@ -5145,7 +5241,7 @@ a:hover {
     font: 400 0px "undefined", sans-serif;
     position: absolute;
     left: 220px;
-    top: 1048px;
+    top: 1075px;
     width: 160px;
     height: 125px;
   }
@@ -5202,7 +5298,7 @@ a:hover {
     height: 33.64px;
     position: absolute;
     left: 161px;
-    top: 1131px;
+    top: 1155px;
   }
   .location {
     position: absolute;
@@ -5244,6 +5340,42 @@ a:hover {
     width: 400px;
     height: 250px;
     border-radius: 20px;
+  }
+  .marsica-securityfb {
+    color: #000000;
+    text-align: center;
+    font: 400 20px "Helvetica Neue", sans-serif;
+    position: absolute;
+    left: 126px;
+    top: 873px;
+    width: 158px;
+    height: 22px;
+  }
+  .marsica_securityig {
+    color: #000000;
+    text-align: center;
+    font: 400 20px "Helvetica Neue", sans-serif;
+    position: absolute;
+    left: 357px;
+    top: 873px;
+    width: 162px;
+    height: 22px;
+  }
+  .u-instagram-alt {
+    position: absolute;
+    left: 318px;
+    top: 871px;
+    width: 32px;
+    height: 32px;
+    overflow: visible;
+  }
+  .u-facebook-f {
+    position: absolute;
+    left: 95px;
+    top: 868px;
+    width: 32px;
+    height: 32px;
+    overflow: visible;
   }
   .macbook-pro-14----5,
   .macbook-pro-14----5 * {
