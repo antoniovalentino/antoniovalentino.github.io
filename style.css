@@ -918,7 +918,7 @@ a:hover {
     height: 53px;
     position: absolute;
     left: 56px;
-    top: 558px;
+    top: 578px;
   }
   .azienda-nel-settore-dal-2004--se-vuoi-scoprire-di-pi--premi {
     color: #ffffff;
@@ -927,11 +927,13 @@ a:hover {
     position: absolute;
     left: 56px;
     top: 377px;
+    width: 600px;
+    height: 260px;
   }
   .chevron-down-24 {
     position: absolute;
     left: 81px;
-    top: 561px;
+    top: 581px;
     width: 46px;
     height: 46px;
     transform: translate(0px, 0px);
@@ -2774,7 +2776,7 @@ a:hover {
   .azienda-nel-settore-dal-2004--se-vuoi-scoprire-di-pi--premi {
     color: #ffffff;
     text-align: left;
-    font: 700 36px/100% "Helvetica Neue", sans-serif;
+    font: 700 32px/100% "Helvetica Neue", sans-serif;
     position: absolute;
     left: 50.59px;
     top: 340.52px;
@@ -3710,7 +3712,7 @@ a:hover {
     position: absolute;
     left: 44.63px;
     top: 300.38px;
-    width: 435.94px;
+    width: 500px;
     height: 95.61px;
   }
   .chevron-down-24 {
@@ -4263,17 +4265,17 @@ a:hover {
   .mappa {
     position: absolute;
     left: 700px;
-    top: 500px;
+    top: 520px;
   }
   .mappa1 {
     width: 400px;
-    height: 200px;
+    height: 180px;
     border-radius: 40px;
   }
   .rectangle-61 {
     background: #fef9f3;
     width: 1205px;
-    height: 381.13px;
+    height: 430px;
     position: absolute;
     left: 0px;
     top: 0px;
@@ -4315,7 +4317,7 @@ a:hover {
     font: 700 29px "Helvetica Neue", sans-serif;
     position: absolute;
     left: 507px;
-    top: 420px;
+    top: 458px;
     width: 211px;
     height: 79px;
   }
@@ -4477,6 +4479,42 @@ a:hover {
     position: absolute;
     left: 3.59px;
     top: 3.59px;
+    overflow: visible;
+  }
+  .marsica-securityfb {
+    color: #000000;
+    text-align: center;
+    font: 400 20px "Helvetica Neue", sans-serif;
+    position: absolute;
+    left: 417.98px;
+    top: 379.7px;
+    width: 150px;
+    height: 23.85px;
+  }
+  .marsica_securityig {
+    color: #000000;
+    text-align: center;
+    font: 400 20px "Helvetica Neue", sans-serif;
+    position: absolute;
+    left: 672.79px;
+    top: 379.7px;
+    width: 151.25px;
+    height: 23.85px;
+  }
+  .u-instagram-alt {
+    position: absolute;
+    left: 625.72px;
+    top: 370.29px;
+    width: 34px;
+    height: 34px;
+    overflow: visible;
+  }
+  .u-facebook-f {
+    position: absolute;
+    left: 377.19px;
+    top: 369.03px;
+    width: 34px;
+    height: 34px;
     overflow: visible;
   }
   .macbook-pro-14----5,
