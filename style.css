@@ -2656,20 +2656,40 @@ a:hover {
     width: 176.86px;
     height: 27.89px;
   }
+  .ellipse-2 {
+    border-radius: 50%;
+    border: solid rgba(136, 136, 136, 0.7);
+    border-width: 1px;
+    width: 42.56px;
+    height: 42.56px;
+    position: absolute;
+    left: 736.79px;
+    top: 436.64px;
+  }
+  .ellipse-1 {
+    border-radius: 50%;
+    border: solid rgba(136, 136, 136, 0.7);
+    border-width: 1px;
+    width: 42.56px;
+    height: 42.56px;
+    position: absolute;
+    left: 438.84px;
+    top: 435.91px;
+  }
   .u-instagram-alt {
     position: absolute;
-    left: 731.65px;
-    top: 434px;
-    width: 39px;
-    height: 39px;
+    left: 747px;
+    top: 447px;
+    width: 22px;
+    height: 22px;
     overflow: visible;
   }
   .u-facebook-f {
     position: absolute;
-    left: 441.05px;
-    top: 431.51px;
-    width: 39px;
-    height: 39px;
+    left: 449.12px;
+    top: 445.5px;
+    width: 22px;
+    height: 22px;
     overflow: visible;
   }
   .macbook-pro-14----5,
@@ -3569,6 +3589,26 @@ a:hover {
     top: 4.07px;
     overflow: visible;
   }
+  .ellipse-2 {
+    border-radius: 50%;
+    border: solid rgba(136, 136, 136, 0.7);
+    border-width: 1px;
+    width: 41.26px;
+    height: 41.26px;
+    position: absolute;
+    left: 714.3px;
+    top: 423.32px;
+  }
+  .ellipse-1 {
+    border-radius: 50%;
+    border: solid rgba(136, 136, 136, 0.7);
+    border-width: 1px;
+    width: 41.26px;
+    height: 41.26px;
+    position: absolute;
+    left: 425.45px;
+    top: 422.61px;
+  }
   .marsica-securityfb {
     color: #000000;
     text-align: center;
@@ -3591,18 +3631,18 @@ a:hover {
   }
   .u-instagram-alt {
     position: absolute;
-    left: 709.32px;
-    top: 421px;
-    width: 39px;
-    height: 39px;
+    left: 723.55px;
+    top: 432.57px;
+    width: 22.5px;
+    height: 22.5px;
     overflow: visible;
   }
   .u-facebook-f {
     position: absolute;
-    left: 427.59px;
-    top: 418.34px;
-    width: 39px;
-    height: 39px;
+    left: 435.41px;
+    top: 431.91px;
+    width: 22.5px;
+    height: 22.5px;
     overflow: visible;
   }
   .macbook-pro-14----5,
@@ -4501,6 +4541,26 @@ a:hover {
     top: 3.59px;
     overflow: visible;
   }
+  .ellipse-2 {
+    border-radius: 50%;
+    border: solid rgba(136, 136, 136, 0.7);
+    border-width: 1px;
+    width: 36.4px;
+    height: 36.4px;
+    position: absolute;
+    left: 630.11px;
+    top: 373.42px;
+  }
+  .ellipse-1 {
+    border-radius: 50%;
+    border: solid rgba(136, 136, 136, 0.7);
+    border-width: 1px;
+    width: 36.4px;
+    height: 36.4px;
+    position: absolute;
+    left: 375.31px;
+    top: 372.8px;
+  }
   .marsica-securityfb {
     color: #000000;
     text-align: center;
@@ -4523,18 +4583,18 @@ a:hover {
   }
   .u-instagram-alt {
     position: absolute;
-    left: 625.72px;
-    top: 370.29px;
-    width: 34px;
-    height: 34px;
+    left: 638.27px;
+    top: 381.58px;
+    width: 19.49px;
+    height: 19.5px;
     overflow: visible;
   }
   .u-facebook-f {
     position: absolute;
-    left: 377.19px;
-    top: 369.03px;
-    width: 34px;
-    height: 34px;
+    left: 384.09px;
+    top: 381px;
+    width: 19.49px;
+    height: 19.5px;
     overflow: visible;
   }
   .macbook-pro-14----5,
