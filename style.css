@@ -800,6 +800,58 @@ a:hover {
     top: 5.72px;
     overflow: visible;
   }
+  .marsica-securityfb {
+    color: #000000;
+    text-align: center;
+    font: 400 20px "Helvetica Neue", sans-serif;
+    position: absolute;
+    left: 720px;
+    top: 605px;
+    width: 239px;
+    height: 38px;
+  }
+  .marsica_securityig {
+    color: #000000;
+    text-align: center;
+    font: 400 20px "Helvetica Neue", sans-serif;
+    position: absolute;
+    left: 1058px;
+    top: 605px;
+    width: 241px;
+    height: 38px;
+  }
+  .ellipse-2 {
+    border-radius: 50%;
+    border: solid rgba(136, 136, 136, 0.7);
+    border-width: 1px;
+    width: 70px;
+    height: 70px;
+    position: absolute;
+    left: 1012px;
+    top: 582px;
+  }
+  .ellipse-1 {
+    border-radius: 50%;
+    border: solid rgba(136, 136, 136, 0.7);
+    border-width: 1px;
+    width: 70px;
+    height: 70px;
+    position: absolute;
+    left: 669px;
+    top: 582px;
+  }
+  .fi-instagram {
+    position: absolute;
+    left: 1028px;
+    top: 598px;
+    overflow: visible;
+  }
+  .u-facebook-f {
+    position: absolute;
+    left: 686px;
+    top: 598px;
+    overflow: visible;
+  }
   .macbook-pro-14----5,
   .macbook-pro-14----5 * {
     box-sizing: border-box;
