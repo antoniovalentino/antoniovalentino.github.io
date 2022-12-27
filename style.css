@@ -594,7 +594,7 @@ a:hover {
   .rectangle-61 {
     background: #fef9f3;
     width: 1920px;
-    height: 607.28px;
+    height: 680px;
     position: absolute;
     left: 0px;
     top: 0px;
@@ -636,7 +636,7 @@ a:hover {
     font: 700 40px "Helvetica Neue", sans-serif;
     position: absolute;
     left: 791.33px;
-    top: 669.05px;
+    top: 710px;
     width: 337.34px;
     height: 71.68px;
   }
@@ -840,16 +840,20 @@ a:hover {
     left: 669px;
     top: 582px;
   }
-  .fi-instagram {
+  .u-instagram-alt {
     position: absolute;
     left: 1028px;
     top: 598px;
+    width: 38px;
+    height: 38px;
     overflow: visible;
   }
   .u-facebook-f {
     position: absolute;
     left: 686px;
     top: 598px;
+    width: 38px;
+    height: 38px;
     overflow: visible;
   }
   .macbook-pro-14----5,
